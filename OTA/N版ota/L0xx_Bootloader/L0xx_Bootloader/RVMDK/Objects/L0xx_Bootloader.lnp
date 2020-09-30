@@ -1,0 +1,14 @@
+--cpu Cortex-M0
+".\objects\main.o"
+".\objects\mm32l073_it.o"
+".\objects\hal_flash.o"
+".\objects\hal_misc.o"
+".\objects\hal_rcc.o"
+".\objects\hal_syscfg.o"
+".\objects\hal_gpio.o"
+".\objects\system_mm32l0xx.o"
+".\objects\startup_mm32l0xx.o"
+--library_type=microlib --strict --scatter ".\Objects\L0xx_Bootloader.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\L0xx_Bootloader.map" -o .\Objects\L0xx_Bootloader.axf

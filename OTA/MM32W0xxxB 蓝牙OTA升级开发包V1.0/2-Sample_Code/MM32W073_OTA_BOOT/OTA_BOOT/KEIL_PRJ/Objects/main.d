@@ -1,0 +1,9 @@
+.\objects\main.o: ..\USER\main.c
+.\objects\main.o: ..\..\Device\MM32L0xx\Include\HAL_device.h
+.\objects\main.o: ..\..\Device\MM32L0xx\Include\MM32L073PF.h
+.\objects\main.o: ..\..\Device\CMSIS\KEIL_CORE\core_cm0.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: ..\..\Device\CMSIS\KEIL_CORE\core_cmInstr.h
+.\objects\main.o: ..\..\Device\CMSIS\KEIL_CORE\core_cmFunc.h
+.\objects\main.o: ..\..\Device\MM32L0xx\HAL_lib\inc\HAL_rcc.h
+.\objects\main.o: ..\..\Device\MM32L0xx\HAL_lib\inc\HAL_flash.h

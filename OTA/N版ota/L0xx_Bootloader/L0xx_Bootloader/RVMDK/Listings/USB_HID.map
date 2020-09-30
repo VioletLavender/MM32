@@ -1,0 +1,666 @@
+Component: ARM Compiler 6.12 Tool: armlink [5d624300]
+
+==============================================================================
+
+Section Cross References
+
+    main.o(.text.main) refers to main.o(.bss..L_MergedGlobals) for [Anonymous Symbol]
+    main.o(.ARM.exidx.text.main) refers to main.o(.text.main) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.NMI_Handler) refers to mm32l073_it.o(.text.NMI_Handler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.HardFault_Handler) refers to mm32l073_it.o(.text.HardFault_Handler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.SVC_Handler) refers to mm32l073_it.o(.text.SVC_Handler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.PendSV_Handler) refers to mm32l073_it.o(.text.PendSV_Handler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.SysTick_Handler) refers to mm32l073_it.o(.text.SysTick_Handler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.WWDG_IRQHandler) refers to mm32l073_it.o(.text.WWDG_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.PVD_IRQHandler) refers to mm32l073_it.o(.text.PVD_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.RTC_IRQHandler) refers to mm32l073_it.o(.text.RTC_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.FLASH_IRQHandler) refers to mm32l073_it.o(.text.FLASH_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.RCC_CRS_IRQHandler) refers to mm32l073_it.o(.text.RCC_CRS_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.EXTI0_1_IRQHandler) refers to mm32l073_it.o(.text.EXTI0_1_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.EXTI2_3_IRQHandler) refers to mm32l073_it.o(.text.EXTI2_3_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.EXTI4_15_IRQHandler) refers to mm32l073_it.o(.text.EXTI4_15_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.DMA1_Channel1_IRQHandler) refers to mm32l073_it.o(.text.DMA1_Channel1_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.DMA1_Channel2_3_IRQHandler) refers to mm32l073_it.o(.text.DMA1_Channel2_3_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.DMA1_Channel4_5_IRQHandler) refers to mm32l073_it.o(.text.DMA1_Channel4_5_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.ADC_COMP_IRQHandler) refers to mm32l073_it.o(.text.ADC_COMP_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.TIM1_BRK_UP_TRG_COM_IRQHandler) refers to mm32l073_it.o(.text.TIM1_BRK_UP_TRG_COM_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.TIM1_CC_IRQHandler) refers to mm32l073_it.o(.text.TIM1_CC_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.TIM2_IRQHandler) refers to mm32l073_it.o(.text.TIM2_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.TIM3_IRQHandler) refers to mm32l073_it.o(.text.TIM3_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.TIM14_IRQHandler) refers to mm32l073_it.o(.text.TIM14_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.TIM16_IRQHandler) refers to mm32l073_it.o(.text.TIM16_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.TIM17_IRQHandler) refers to mm32l073_it.o(.text.TIM17_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.I2C1_IRQHandler) refers to mm32l073_it.o(.text.I2C1_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.SPI1_IRQHandler) refers to mm32l073_it.o(.text.SPI1_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.SPI2_IRQHandler) refers to mm32l073_it.o(.text.SPI2_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.UART1_IRQHandler) refers to mm32l073_it.o(.text.UART1_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.UART2_IRQHandler) refers to mm32l073_it.o(.text.UART2_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.AES_IRQHandler) refers to mm32l073_it.o(.text.AES_IRQHandler) for [Anonymous Symbol]
+    mm32l073_it.o(.ARM.exidx.text.CAN_IRQHandler) refers to mm32l073_it.o(.text.CAN_IRQHandler) for [Anonymous Symbol]
+    hal_flash.o(.ARM.exidx.text.FLASH_SetLatency) refers to hal_flash.o(.text.FLASH_SetLatency) for [Anonymous Symbol]
+    hal_flash.o(.ARM.exidx.text.FLASH_HalfCycleAccessCmd) refers to hal_flash.o(.text.FLASH_HalfCycleAccessCmd) for [Anonymous Symbol]
+    hal_flash.o(.ARM.exidx.text.FLASH_PrefetchBufferCmd) refers to hal_flash.o(.text.FLASH_PrefetchBufferCmd) for [Anonymous Symbol]
+    hal_flash.o(.ARM.exidx.text.FLASH_Unlock) refers to hal_flash.o(.text.FLASH_Unlock) for [Anonymous Symbol]
+    hal_flash.o(.ARM.exidx.text.FLASH_Lock) refers to hal_flash.o(.text.FLASH_Lock) for [Anonymous Symbol]
+    hal_flash.o(.text.FLASH_ErasePage) refers to hal_flash.o(.text.FLASH_WaitForLastOperation) for FLASH_WaitForLastOperation
+    hal_flash.o(.ARM.exidx.text.FLASH_ErasePage) refers to hal_flash.o(.text.FLASH_ErasePage) for [Anonymous Symbol]
+    hal_flash.o(.text.FLASH_WaitForLastOperation) refers to hal_flash.o(.text.FLASH_GetStatus) for FLASH_GetStatus
+    hal_flash.o(.ARM.exidx.text.FLASH_WaitForLastOperation) refers to hal_flash.o(.text.FLASH_WaitForLastOperation) for [Anonymous Symbol]
+    hal_flash.o(.text.FLASH_EraseAllPages) refers to hal_flash.o(.text.FLASH_WaitForLastOperation) for FLASH_WaitForLastOperation
+    hal_flash.o(.ARM.exidx.text.FLASH_EraseAllPages) refers to hal_flash.o(.text.FLASH_EraseAllPages) for [Anonymous Symbol]
+    hal_flash.o(.text.FLASH_EraseOptionBytes) refers to hal_flash.o(.text.FLASH_WaitForLastOperation) for FLASH_WaitForLastOperation
+    hal_flash.o(.ARM.exidx.text.FLASH_EraseOptionBytes) refers to hal_flash.o(.text.FLASH_EraseOptionBytes) for [Anonymous Symbol]
+    hal_flash.o(.text.FLASH_ProgramWord) refers to hal_flash.o(.text.FLASH_WaitForLastOperation) for FLASH_WaitForLastOperation
+    hal_flash.o(.ARM.exidx.text.FLASH_ProgramWord) refers to hal_flash.o(.text.FLASH_ProgramWord) for [Anonymous Symbol]
+    hal_flash.o(.text.FLASH_ProgramHalfWord) refers to hal_flash.o(.text.FLASH_WaitForLastOperation) for FLASH_WaitForLastOperation
+    hal_flash.o(.ARM.exidx.text.FLASH_ProgramHalfWord) refers to hal_flash.o(.text.FLASH_ProgramHalfWord) for [Anonymous Symbol]
+    hal_flash.o(.text.FLASH_ProgramOptionByteData) refers to hal_flash.o(.text.FLASH_WaitForLastOperation) for FLASH_WaitForLastOperation
+    hal_flash.o(.ARM.exidx.text.FLASH_ProgramOptionByteData) refers to hal_flash.o(.text.FLASH_ProgramOptionByteData) for [Anonymous Symbol]
+    hal_flash.o(.text.FLASH_EnableWriteProtection) refers to hal_flash.o(.text.FLASH_WaitForLastOperation) for FLASH_WaitForLastOperation
+    hal_flash.o(.ARM.exidx.text.FLASH_EnableWriteProtection) refers to hal_flash.o(.text.FLASH_EnableWriteProtection) for [Anonymous Symbol]
+    hal_flash.o(.text.FLASH_ReadOutProtection) refers to hal_flash.o(.text.FLASH_WaitForLastOperation) for FLASH_WaitForLastOperation
+    hal_flash.o(.ARM.exidx.text.FLASH_ReadOutProtection) refers to hal_flash.o(.text.FLASH_ReadOutProtection) for [Anonymous Symbol]
+    hal_flash.o(.text.FLASH_UserOptionByteConfig) refers to hal_flash.o(.text.FLASH_WaitForLastOperation) for FLASH_WaitForLastOperation
+    hal_flash.o(.ARM.exidx.text.FLASH_UserOptionByteConfig) refers to hal_flash.o(.text.FLASH_UserOptionByteConfig) for [Anonymous Symbol]
+    hal_flash.o(.ARM.exidx.text.FLASH_GetUserOptionByte) refers to hal_flash.o(.text.FLASH_GetUserOptionByte) for [Anonymous Symbol]
+    hal_flash.o(.ARM.exidx.text.FLASH_GetWriteProtectionOptionByte) refers to hal_flash.o(.text.FLASH_GetWriteProtectionOptionByte) for [Anonymous Symbol]
+    hal_flash.o(.ARM.exidx.text.FLASH_GetReadOutProtectionStatus) refers to hal_flash.o(.text.FLASH_GetReadOutProtectionStatus) for [Anonymous Symbol]
+    hal_flash.o(.ARM.exidx.text.FLASH_GetPrefetchBufferStatus) refers to hal_flash.o(.text.FLASH_GetPrefetchBufferStatus) for [Anonymous Symbol]
+    hal_flash.o(.ARM.exidx.text.FLASH_ITConfig) refers to hal_flash.o(.text.FLASH_ITConfig) for [Anonymous Symbol]
+    hal_flash.o(.ARM.exidx.text.FLASH_GetFlagStatus) refers to hal_flash.o(.text.FLASH_GetFlagStatus) for [Anonymous Symbol]
+    hal_flash.o(.ARM.exidx.text.FLASH_ClearFlag) refers to hal_flash.o(.text.FLASH_ClearFlag) for [Anonymous Symbol]
+    hal_flash.o(.ARM.exidx.text.FLASH_GetStatus) refers to hal_flash.o(.text.FLASH_GetStatus) for [Anonymous Symbol]
+    hal_misc.o(.ARM.exidx.text.NVIC_Init) refers to hal_misc.o(.text.NVIC_Init) for [Anonymous Symbol]
+    hal_misc.o(.ARM.exidx.text.NVIC_SetVectorTable) refers to hal_misc.o(.text.NVIC_SetVectorTable) for [Anonymous Symbol]
+    hal_misc.o(.ARM.exidx.text.NVIC_SystemLPConfig) refers to hal_misc.o(.text.NVIC_SystemLPConfig) for [Anonymous Symbol]
+    hal_misc.o(.ARM.exidx.text.SysTick_CLKSourceConfig) refers to hal_misc.o(.text.SysTick_CLKSourceConfig) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_DeInit) refers to hal_rcc.o(.text.RCC_DeInit) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_HSEConfig) refers to hal_rcc.o(.text.RCC_HSEConfig) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_WaitForHSEStartUp) refers to hal_rcc.o(.text.RCC_WaitForHSEStartUp) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_GetFlagStatus) refers to hal_rcc.o(.text.RCC_GetFlagStatus) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_AdjustHSICalibrationValue) refers to hal_rcc.o(.text.RCC_AdjustHSICalibrationValue) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_HSICmd) refers to hal_rcc.o(.text.RCC_HSICmd) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_PLLDMDNConfig) refers to hal_rcc.o(.text.RCC_PLLDMDNConfig) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_PLLConfig) refers to hal_rcc.o(.text.RCC_PLLConfig) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_PLLCmd) refers to hal_rcc.o(.text.RCC_PLLCmd) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_SYSCLKConfig) refers to hal_rcc.o(.text.RCC_SYSCLKConfig) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_GetSYSCLKSource) refers to hal_rcc.o(.text.RCC_GetSYSCLKSource) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_HCLKConfig) refers to hal_rcc.o(.text.RCC_HCLKConfig) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_PCLK1Config) refers to hal_rcc.o(.text.RCC_PCLK1Config) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_PCLK2Config) refers to hal_rcc.o(.text.RCC_PCLK2Config) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_ITConfig) refers to hal_rcc.o(.text.RCC_ITConfig) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_USBCLKConfig) refers to hal_rcc.o(.text.RCC_USBCLKConfig) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_LSICmd) refers to hal_rcc.o(.text.RCC_LSICmd) for [Anonymous Symbol]
+    hal_rcc.o(.text.RCC_GetClocksFreq) refers to uidiv.o(.text) for __aeabi_uidiv
+    hal_rcc.o(.text.RCC_GetClocksFreq) refers to hal_rcc.o(.rodata.APBAHBPrescTable) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_GetClocksFreq) refers to hal_rcc.o(.text.RCC_GetClocksFreq) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_AHBPeriphClockCmd) refers to hal_rcc.o(.text.RCC_AHBPeriphClockCmd) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_APB2PeriphClockCmd) refers to hal_rcc.o(.text.RCC_APB2PeriphClockCmd) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_APB1PeriphClockCmd) refers to hal_rcc.o(.text.RCC_APB1PeriphClockCmd) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_APB2PeriphResetCmd) refers to hal_rcc.o(.text.RCC_APB2PeriphResetCmd) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_APB1PeriphResetCmd) refers to hal_rcc.o(.text.RCC_APB1PeriphResetCmd) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_ClockSecuritySystemCmd) refers to hal_rcc.o(.text.RCC_ClockSecuritySystemCmd) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_MCOConfig) refers to hal_rcc.o(.text.RCC_MCOConfig) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_ClearFlag) refers to hal_rcc.o(.text.RCC_ClearFlag) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_GetITStatus) refers to hal_rcc.o(.text.RCC_GetITStatus) for [Anonymous Symbol]
+    hal_rcc.o(.ARM.exidx.text.RCC_ClearITPendingBit) refers to hal_rcc.o(.text.RCC_ClearITPendingBit) for [Anonymous Symbol]
+    hal_syscfg.o(.ARM.exidx.text.SYSCFG_DeInit) refers to hal_syscfg.o(.text.SYSCFG_DeInit) for [Anonymous Symbol]
+    hal_syscfg.o(.ARM.exidx.text.SYSCFG_MemoryRemapConfig) refers to hal_syscfg.o(.text.SYSCFG_MemoryRemapConfig) for [Anonymous Symbol]
+    hal_syscfg.o(.ARM.exidx.text.SYSCFG_DMAChannelRemapConfig) refers to hal_syscfg.o(.text.SYSCFG_DMAChannelRemapConfig) for [Anonymous Symbol]
+    hal_syscfg.o(.ARM.exidx.text.SYSCFG_EXTILineConfig) refers to hal_syscfg.o(.text.SYSCFG_EXTILineConfig) for [Anonymous Symbol]
+    system_mm32l0xx.o(.ARM.exidx.text.SystemInit) refers to system_mm32l0xx.o(.text.SystemInit) for [Anonymous Symbol]
+    startup_mm32l0xx.o(RESET) refers to startup_mm32l0xx.o(STACK) for __initial_sp
+    startup_mm32l0xx.o(RESET) refers to startup_mm32l0xx.o(.text) for Reset_Handler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.NMI_Handler) for NMI_Handler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.HardFault_Handler) for HardFault_Handler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.SVC_Handler) for SVC_Handler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.PendSV_Handler) for PendSV_Handler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.SysTick_Handler) for SysTick_Handler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.WWDG_IRQHandler) for WWDG_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.PVD_IRQHandler) for PVD_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.RTC_IRQHandler) for RTC_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.FLASH_IRQHandler) for FLASH_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.RCC_CRS_IRQHandler) for RCC_CRS_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.EXTI0_1_IRQHandler) for EXTI0_1_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.EXTI2_3_IRQHandler) for EXTI2_3_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.EXTI4_15_IRQHandler) for EXTI4_15_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.DMA1_Channel1_IRQHandler) for DMA1_Channel1_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.DMA1_Channel2_3_IRQHandler) for DMA1_Channel2_3_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.DMA1_Channel4_5_IRQHandler) for DMA1_Channel4_5_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.ADC_COMP_IRQHandler) for ADC_COMP_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.TIM1_BRK_UP_TRG_COM_IRQHandler) for TIM1_BRK_UP_TRG_COM_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.TIM1_CC_IRQHandler) for TIM1_CC_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.TIM2_IRQHandler) for TIM2_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.TIM3_IRQHandler) for TIM3_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.TIM14_IRQHandler) for TIM14_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.TIM16_IRQHandler) for TIM16_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.TIM17_IRQHandler) for TIM17_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.I2C1_IRQHandler) for I2C1_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.SPI1_IRQHandler) for SPI1_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.SPI2_IRQHandler) for SPI2_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.UART1_IRQHandler) for UART1_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.UART2_IRQHandler) for UART2_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.AES_IRQHandler) for AES_IRQHandler
+    startup_mm32l0xx.o(RESET) refers to mm32l073_it.o(.text.CAN_IRQHandler) for CAN_IRQHandler
+    startup_mm32l0xx.o(.text) refers to startup_mm32l0xx.o(STACK) for __initial_sp
+    startup_mm32l0xx.o(.text) refers to system_mm32l0xx.o(.text.SystemInit) for SystemInit
+    startup_mm32l0xx.o(.text) refers to entry.o(.ARM.Collect$$$$00000000) for __main
+    entry.o(.ARM.Collect$$$$00000000) refers (Special) to entry10a.o(.ARM.Collect$$$$0000000D) for __rt_final_cpp
+    entry.o(.ARM.Collect$$$$00000000) refers (Special) to entry11a.o(.ARM.Collect$$$$0000000F) for __rt_final_exit
+    entry.o(.ARM.Collect$$$$00000000) refers (Special) to entry7b.o(.ARM.Collect$$$$00000008) for _main_clock
+    entry.o(.ARM.Collect$$$$00000000) refers (Special) to entry8b.o(.ARM.Collect$$$$0000000A) for _main_cpp_init
+    entry.o(.ARM.Collect$$$$00000000) refers (Special) to entry9a.o(.ARM.Collect$$$$0000000B) for _main_init
+    entry.o(.ARM.Collect$$$$00000000) refers (Special) to entry5.o(.ARM.Collect$$$$00000004) for _main_scatterload
+    entry.o(.ARM.Collect$$$$00000000) refers (Special) to entry2.o(.ARM.Collect$$$$00000001) for _main_stk
+    entry2.o(.ARM.Collect$$$$00000001) refers to entry2.o(.ARM.Collect$$$$00002712) for __lit__00000000
+    entry2.o(.ARM.Collect$$$$00002712) refers to startup_mm32l0xx.o(STACK) for __initial_sp
+    entry2.o(__vectab_stack_and_reset_area) refers to startup_mm32l0xx.o(STACK) for __initial_sp
+    entry2.o(__vectab_stack_and_reset_area) refers to entry.o(.ARM.Collect$$$$00000000) for __main
+    entry5.o(.ARM.Collect$$$$00000004) refers to init.o(.text) for __scatterload
+    entry9a.o(.ARM.Collect$$$$0000000B) refers to main.o(.text.main) for main
+    entry9b.o(.ARM.Collect$$$$0000000C) refers to main.o(.text.main) for main
+    init.o(.text) refers to entry5.o(.ARM.Collect$$$$00000004) for __main_after_scatterload
+
+
+==============================================================================
+
+Removing Unused input sections from the image.
+
+    Removing main.o(.text), (0 bytes).
+    Removing main.o(.ARM.exidx.text.main), (8 bytes).
+    Removing main.o(.ARM.use_no_argv), (4 bytes).
+    Removing mm32l073_it.o(.text), (0 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.NMI_Handler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.HardFault_Handler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.SVC_Handler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.PendSV_Handler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.SysTick_Handler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.WWDG_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.PVD_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.RTC_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.FLASH_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.RCC_CRS_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.EXTI0_1_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.EXTI2_3_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.EXTI4_15_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.DMA1_Channel1_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.DMA1_Channel2_3_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.DMA1_Channel4_5_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.ADC_COMP_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.TIM1_BRK_UP_TRG_COM_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.TIM1_CC_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.TIM2_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.TIM3_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.TIM14_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.TIM16_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.TIM17_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.I2C1_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.SPI1_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.SPI2_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.UART1_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.UART2_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.AES_IRQHandler), (8 bytes).
+    Removing mm32l073_it.o(.ARM.exidx.text.CAN_IRQHandler), (8 bytes).
+    Removing hal_flash.o(.text), (0 bytes).
+    Removing hal_flash.o(.text.FLASH_SetLatency), (20 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_SetLatency), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_HalfCycleAccessCmd), (24 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_HalfCycleAccessCmd), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_PrefetchBufferCmd), (24 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_PrefetchBufferCmd), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_Unlock), (24 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_Unlock), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_Lock), (16 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_Lock), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_ErasePage), (72 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_ErasePage), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_WaitForLastOperation), (54 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_WaitForLastOperation), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_EraseAllPages), (68 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_EraseAllPages), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_EraseOptionBytes), (144 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_EraseOptionBytes), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_ProgramWord), (84 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_ProgramWord), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_ProgramHalfWord), (64 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_ProgramHalfWord), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_ProgramOptionByteData), (76 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_ProgramOptionByteData), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_EnableWriteProtection), (152 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_EnableWriteProtection), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_ReadOutProtection), (152 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_ReadOutProtection), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_UserOptionByteConfig), (96 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_UserOptionByteConfig), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_GetUserOptionByte), (12 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_GetUserOptionByte), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_GetWriteProtectionOptionByte), (12 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_GetWriteProtectionOptionByte), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_GetReadOutProtectionStatus), (16 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_GetReadOutProtectionStatus), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_GetPrefetchBufferStatus), (16 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_GetPrefetchBufferStatus), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_ITConfig), (24 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_ITConfig), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_GetFlagStatus), (32 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_GetFlagStatus), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_ClearFlag), (12 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_ClearFlag), (8 bytes).
+    Removing hal_flash.o(.text.FLASH_GetStatus), (40 bytes).
+    Removing hal_flash.o(.ARM.exidx.text.FLASH_GetStatus), (8 bytes).
+    Removing hal_misc.o(.text), (0 bytes).
+    Removing hal_misc.o(.text.NVIC_Init), (84 bytes).
+    Removing hal_misc.o(.ARM.exidx.text.NVIC_Init), (8 bytes).
+    Removing hal_misc.o(.text.NVIC_SetVectorTable), (2 bytes).
+    Removing hal_misc.o(.ARM.exidx.text.NVIC_SetVectorTable), (8 bytes).
+    Removing hal_misc.o(.text.NVIC_SystemLPConfig), (24 bytes).
+    Removing hal_misc.o(.ARM.exidx.text.NVIC_SystemLPConfig), (8 bytes).
+    Removing hal_misc.o(.text.SysTick_CLKSourceConfig), (24 bytes).
+    Removing hal_misc.o(.ARM.exidx.text.SysTick_CLKSourceConfig), (8 bytes).
+    Removing hal_rcc.o(.text), (0 bytes).
+    Removing hal_rcc.o(.text.RCC_DeInit), (84 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_DeInit), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_HSEConfig), (60 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_HSEConfig), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_WaitForHSEStartUp), (44 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_WaitForHSEStartUp), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_GetFlagStatus), (44 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_GetFlagStatus), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_AdjustHSICalibrationValue), (24 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_AdjustHSICalibrationValue), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_HSICmd), (24 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_HSICmd), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_PLLDMDNConfig), (32 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_PLLDMDNConfig), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_PLLConfig), (112 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_PLLConfig), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_PLLCmd), (28 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_PLLCmd), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_SYSCLKConfig), (20 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_SYSCLKConfig), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_GetSYSCLKSource), (16 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_GetSYSCLKSource), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_HCLKConfig), (20 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_HCLKConfig), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_PCLK1Config), (20 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_PCLK1Config), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_PCLK2Config), (24 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_PCLK2Config), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_ITConfig), (28 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_ITConfig), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_USBCLKConfig), (24 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_USBCLKConfig), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_LSICmd), (24 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_LSICmd), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_GetClocksFreq), (124 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_GetClocksFreq), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_AHBPeriphClockCmd), (24 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_AHBPeriphClockCmd), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_APB2PeriphClockCmd), (24 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_APB2PeriphClockCmd), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_APB1PeriphClockCmd), (24 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_APB1PeriphClockCmd), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_APB2PeriphResetCmd), (24 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_APB2PeriphResetCmd), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_APB1PeriphResetCmd), (24 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_APB1PeriphResetCmd), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_ClockSecuritySystemCmd), (28 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_ClockSecuritySystemCmd), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_MCOConfig), (28 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_MCOConfig), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_ClearFlag), (20 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_ClearFlag), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_GetITStatus), (20 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_GetITStatus), (8 bytes).
+    Removing hal_rcc.o(.text.RCC_ClearITPendingBit), (16 bytes).
+    Removing hal_rcc.o(.ARM.exidx.text.RCC_ClearITPendingBit), (8 bytes).
+    Removing hal_rcc.o(.rodata.APBAHBPrescTable), (16 bytes).
+    Removing hal_syscfg.o(.text), (0 bytes).
+    Removing hal_syscfg.o(.text.SYSCFG_DeInit), (28 bytes).
+    Removing hal_syscfg.o(.ARM.exidx.text.SYSCFG_DeInit), (8 bytes).
+    Removing hal_syscfg.o(.text.SYSCFG_MemoryRemapConfig), (20 bytes).
+    Removing hal_syscfg.o(.ARM.exidx.text.SYSCFG_MemoryRemapConfig), (8 bytes).
+    Removing hal_syscfg.o(.text.SYSCFG_DMAChannelRemapConfig), (24 bytes).
+    Removing hal_syscfg.o(.ARM.exidx.text.SYSCFG_DMAChannelRemapConfig), (8 bytes).
+    Removing hal_syscfg.o(.text.SYSCFG_EXTILineConfig), (36 bytes).
+    Removing hal_syscfg.o(.ARM.exidx.text.SYSCFG_EXTILineConfig), (8 bytes).
+    Removing system_mm32l0xx.o(.text), (0 bytes).
+    Removing system_mm32l0xx.o(.ARM.exidx.text.SystemInit), (8 bytes).
+    Removing system_mm32l0xx.o(.data.SystemCoreClock), (4 bytes).
+    Removing system_mm32l0xx.o(.rodata.AHBPrescTable), (16 bytes).
+    Removing startup_mm32l0xx.o(HEAP), (512 bytes).
+
+163 unused section(s) (total 3748 bytes) removed from the image.
+
+==============================================================================
+
+Image Symbol Table
+
+    Local Symbols
+
+    Symbol Name                              Value     Ov Type        Size  Object(Section)
+
+    ../clib/microlib/division.c              0x00000000   Number         0  uidiv.o ABSOLUTE
+    ../clib/microlib/init/entry.s            0x00000000   Number         0  entry.o ABSOLUTE
+    ../clib/microlib/init/entry.s            0x00000000   Number         0  entry2.o ABSOLUTE
+    ../clib/microlib/init/entry.s            0x00000000   Number         0  entry5.o ABSOLUTE
+    ../clib/microlib/init/entry.s            0x00000000   Number         0  entry7a.o ABSOLUTE
+    ../clib/microlib/init/entry.s            0x00000000   Number         0  entry7b.o ABSOLUTE
+    ../clib/microlib/init/entry.s            0x00000000   Number         0  entry8a.o ABSOLUTE
+    ../clib/microlib/init/entry.s            0x00000000   Number         0  entry8b.o ABSOLUTE
+    ../clib/microlib/init/entry.s            0x00000000   Number         0  entry9a.o ABSOLUTE
+    ../clib/microlib/init/entry.s            0x00000000   Number         0  entry9b.o ABSOLUTE
+    ../clib/microlib/init/entry.s            0x00000000   Number         0  entry10a.o ABSOLUTE
+    ../clib/microlib/init/entry.s            0x00000000   Number         0  entry10b.o ABSOLUTE
+    ../clib/microlib/init/entry.s            0x00000000   Number         0  entry11a.o ABSOLUTE
+    ../clib/microlib/init/entry.s            0x00000000   Number         0  entry11b.o ABSOLUTE
+    ..\..\Device\MM32L0xx\Source\KEIL_StartAsm\startup_MM32L0xx.s 0x00000000   Number         0  startup_mm32l0xx.o ABSOLUTE
+    HAL_flash.c                              0x00000000   Number         0  hal_flash.o ABSOLUTE
+    HAL_misc.c                               0x00000000   Number         0  hal_misc.o ABSOLUTE
+    HAL_rcc.c                                0x00000000   Number         0  hal_rcc.o ABSOLUTE
+    HAL_syscfg.c                             0x00000000   Number         0  hal_syscfg.o ABSOLUTE
+    MM32L073_it.c                            0x00000000   Number         0  mm32l073_it.o ABSOLUTE
+    dc.s                                     0x00000000   Number         0  dc.o ABSOLUTE
+    handlers.s                               0x00000000   Number         0  handlers.o ABSOLUTE
+    init.s                                   0x00000000   Number         0  init.o ABSOLUTE
+    main.c                                   0x00000000   Number         0  main.o ABSOLUTE
+    system_MM32L0xx.c                        0x00000000   Number         0  system_mm32l0xx.o ABSOLUTE
+    RESET                                    0x08000000   Section      192  startup_mm32l0xx.o(RESET)
+    .ARM.Collect$$$$00000000                 0x080000c0   Section        0  entry.o(.ARM.Collect$$$$00000000)
+    .ARM.Collect$$$$00000001                 0x080000c0   Section        4  entry2.o(.ARM.Collect$$$$00000001)
+    .ARM.Collect$$$$00000004                 0x080000c4   Section        4  entry5.o(.ARM.Collect$$$$00000004)
+    .ARM.Collect$$$$00000008                 0x080000c8   Section        0  entry7b.o(.ARM.Collect$$$$00000008)
+    .ARM.Collect$$$$0000000A                 0x080000c8   Section        0  entry8b.o(.ARM.Collect$$$$0000000A)
+    .ARM.Collect$$$$0000000B                 0x080000c8   Section        8  entry9a.o(.ARM.Collect$$$$0000000B)
+    __lit__00000000                          0x080000d0   Data           4  entry2.o(.ARM.Collect$$$$00002712)
+    .ARM.Collect$$$$0000000D                 0x080000d0   Section        0  entry10a.o(.ARM.Collect$$$$0000000D)
+    .ARM.Collect$$$$0000000F                 0x080000d0   Section        0  entry11a.o(.ARM.Collect$$$$0000000F)
+    .ARM.Collect$$$$00002712                 0x080000d0   Section        4  entry2.o(.ARM.Collect$$$$00002712)
+    .text                                    0x080000d4   Section       88  startup_mm32l0xx.o(.text)
+    .text                                    0x0800012c   Section       36  init.o(.text)
+    [Anonymous Symbol]                       0x08000150   Section        0  mm32l073_it.o(.text.ADC_COMP_IRQHandler)
+    __arm_cp.16_0                            0x0800015c   Number         4  mm32l073_it.o(.text.ADC_COMP_IRQHandler)
+    [Anonymous Symbol]                       0x08000160   Section        0  mm32l073_it.o(.text.AES_IRQHandler)
+    __arm_cp.29_0                            0x0800016c   Number         4  mm32l073_it.o(.text.AES_IRQHandler)
+    [Anonymous Symbol]                       0x08000170   Section        0  mm32l073_it.o(.text.CAN_IRQHandler)
+    __arm_cp.30_0                            0x0800017c   Number         4  mm32l073_it.o(.text.CAN_IRQHandler)
+    [Anonymous Symbol]                       0x08000180   Section        0  mm32l073_it.o(.text.DMA1_Channel1_IRQHandler)
+    __arm_cp.13_0                            0x0800018c   Number         4  mm32l073_it.o(.text.DMA1_Channel1_IRQHandler)
+    [Anonymous Symbol]                       0x08000190   Section        0  mm32l073_it.o(.text.DMA1_Channel2_3_IRQHandler)
+    __arm_cp.14_0                            0x0800019c   Number         4  mm32l073_it.o(.text.DMA1_Channel2_3_IRQHandler)
+    [Anonymous Symbol]                       0x080001a0   Section        0  mm32l073_it.o(.text.DMA1_Channel4_5_IRQHandler)
+    __arm_cp.15_0                            0x080001ac   Number         4  mm32l073_it.o(.text.DMA1_Channel4_5_IRQHandler)
+    [Anonymous Symbol]                       0x080001b0   Section        0  mm32l073_it.o(.text.EXTI0_1_IRQHandler)
+    __arm_cp.10_0                            0x080001bc   Number         4  mm32l073_it.o(.text.EXTI0_1_IRQHandler)
+    [Anonymous Symbol]                       0x080001c0   Section        0  mm32l073_it.o(.text.EXTI2_3_IRQHandler)
+    __arm_cp.11_0                            0x080001cc   Number         4  mm32l073_it.o(.text.EXTI2_3_IRQHandler)
+    [Anonymous Symbol]                       0x080001d0   Section        0  mm32l073_it.o(.text.EXTI4_15_IRQHandler)
+    __arm_cp.12_0                            0x080001dc   Number         4  mm32l073_it.o(.text.EXTI4_15_IRQHandler)
+    [Anonymous Symbol]                       0x080001e0   Section        0  mm32l073_it.o(.text.FLASH_IRQHandler)
+    __arm_cp.8_0                             0x080001ec   Number         4  mm32l073_it.o(.text.FLASH_IRQHandler)
+    [Anonymous Symbol]                       0x080001f0   Section        0  mm32l073_it.o(.text.HardFault_Handler)
+    __arm_cp.1_0                             0x080001fc   Number         4  mm32l073_it.o(.text.HardFault_Handler)
+    [Anonymous Symbol]                       0x08000200   Section        0  mm32l073_it.o(.text.I2C1_IRQHandler)
+    __arm_cp.24_0                            0x0800020c   Number         4  mm32l073_it.o(.text.I2C1_IRQHandler)
+    [Anonymous Symbol]                       0x08000210   Section        0  mm32l073_it.o(.text.NMI_Handler)
+    __arm_cp.0_0                             0x0800021c   Number         4  mm32l073_it.o(.text.NMI_Handler)
+    [Anonymous Symbol]                       0x08000220   Section        0  mm32l073_it.o(.text.PVD_IRQHandler)
+    __arm_cp.6_0                             0x0800022c   Number         4  mm32l073_it.o(.text.PVD_IRQHandler)
+    [Anonymous Symbol]                       0x08000230   Section        0  mm32l073_it.o(.text.PendSV_Handler)
+    __arm_cp.3_0                             0x0800023c   Number         4  mm32l073_it.o(.text.PendSV_Handler)
+    [Anonymous Symbol]                       0x08000240   Section        0  mm32l073_it.o(.text.RCC_CRS_IRQHandler)
+    __arm_cp.9_0                             0x0800024c   Number         4  mm32l073_it.o(.text.RCC_CRS_IRQHandler)
+    [Anonymous Symbol]                       0x08000250   Section        0  mm32l073_it.o(.text.RTC_IRQHandler)
+    __arm_cp.7_0                             0x0800025c   Number         4  mm32l073_it.o(.text.RTC_IRQHandler)
+    [Anonymous Symbol]                       0x08000260   Section        0  mm32l073_it.o(.text.SPI1_IRQHandler)
+    __arm_cp.25_0                            0x0800026c   Number         4  mm32l073_it.o(.text.SPI1_IRQHandler)
+    [Anonymous Symbol]                       0x08000270   Section        0  mm32l073_it.o(.text.SPI2_IRQHandler)
+    __arm_cp.26_0                            0x0800027c   Number         4  mm32l073_it.o(.text.SPI2_IRQHandler)
+    [Anonymous Symbol]                       0x08000280   Section        0  mm32l073_it.o(.text.SVC_Handler)
+    __arm_cp.2_0                             0x0800028c   Number         4  mm32l073_it.o(.text.SVC_Handler)
+    [Anonymous Symbol]                       0x08000290   Section        0  mm32l073_it.o(.text.SysTick_Handler)
+    __arm_cp.4_0                             0x0800029c   Number         4  mm32l073_it.o(.text.SysTick_Handler)
+    [Anonymous Symbol]                       0x080002a0   Section        0  system_mm32l0xx.o(.text.SystemInit)
+    __arm_cp.0_0                             0x08000398   Number         4  system_mm32l0xx.o(.text.SystemInit)
+    __arm_cp.0_1                             0x0800039c   Number         4  system_mm32l0xx.o(.text.SystemInit)
+    __arm_cp.0_2                             0x080003a0   Number         4  system_mm32l0xx.o(.text.SystemInit)
+    __arm_cp.0_3                             0x080003a4   Number         4  system_mm32l0xx.o(.text.SystemInit)
+    __arm_cp.0_4                             0x080003a8   Number         4  system_mm32l0xx.o(.text.SystemInit)
+    __arm_cp.0_5                             0x080003ac   Number         4  system_mm32l0xx.o(.text.SystemInit)
+    __arm_cp.0_6                             0x080003b0   Number         4  system_mm32l0xx.o(.text.SystemInit)
+    [Anonymous Symbol]                       0x080003b4   Section        0  mm32l073_it.o(.text.TIM14_IRQHandler)
+    __arm_cp.21_0                            0x080003c0   Number         4  mm32l073_it.o(.text.TIM14_IRQHandler)
+    [Anonymous Symbol]                       0x080003c4   Section        0  mm32l073_it.o(.text.TIM16_IRQHandler)
+    __arm_cp.22_0                            0x080003d0   Number         4  mm32l073_it.o(.text.TIM16_IRQHandler)
+    [Anonymous Symbol]                       0x080003d4   Section        0  mm32l073_it.o(.text.TIM17_IRQHandler)
+    __arm_cp.23_0                            0x080003e0   Number         4  mm32l073_it.o(.text.TIM17_IRQHandler)
+    [Anonymous Symbol]                       0x080003e4   Section        0  mm32l073_it.o(.text.TIM1_BRK_UP_TRG_COM_IRQHandler)
+    __arm_cp.17_0                            0x080003f0   Number         4  mm32l073_it.o(.text.TIM1_BRK_UP_TRG_COM_IRQHandler)
+    [Anonymous Symbol]                       0x080003f4   Section        0  mm32l073_it.o(.text.TIM1_CC_IRQHandler)
+    __arm_cp.18_0                            0x08000400   Number         4  mm32l073_it.o(.text.TIM1_CC_IRQHandler)
+    [Anonymous Symbol]                       0x08000404   Section        0  mm32l073_it.o(.text.TIM2_IRQHandler)
+    __arm_cp.19_0                            0x08000410   Number         4  mm32l073_it.o(.text.TIM2_IRQHandler)
+    [Anonymous Symbol]                       0x08000414   Section        0  mm32l073_it.o(.text.TIM3_IRQHandler)
+    __arm_cp.20_0                            0x08000420   Number         4  mm32l073_it.o(.text.TIM3_IRQHandler)
+    [Anonymous Symbol]                       0x08000424   Section        0  mm32l073_it.o(.text.UART1_IRQHandler)
+    __arm_cp.27_0                            0x08000430   Number         4  mm32l073_it.o(.text.UART1_IRQHandler)
+    [Anonymous Symbol]                       0x08000434   Section        0  mm32l073_it.o(.text.UART2_IRQHandler)
+    __arm_cp.28_0                            0x08000440   Number         4  mm32l073_it.o(.text.UART2_IRQHandler)
+    [Anonymous Symbol]                       0x08000444   Section        0  mm32l073_it.o(.text.WWDG_IRQHandler)
+    __arm_cp.5_0                             0x08000450   Number         4  mm32l073_it.o(.text.WWDG_IRQHandler)
+    [Anonymous Symbol]                       0x08000454   Section        0  main.o(.text.main)
+    __arm_cp.0_0                             0x08000478   Number         4  main.o(.text.main)
+    __arm_cp.0_1                             0x0800047c   Number         4  main.o(.text.main)
+    __arm_cp.0_2                             0x08000480   Number         4  main.o(.text.main)
+    i.__scatterload_copy                     0x08000484   Section       14  handlers.o(i.__scatterload_copy)
+    i.__scatterload_null                     0x08000492   Section        2  handlers.o(i.__scatterload_null)
+    i.__scatterload_zeroinit                 0x08000494   Section       14  handlers.o(i.__scatterload_zeroinit)
+    [Anonymous Symbol]                       0x20000000   Section        0  main.o(.bss..L_MergedGlobals)
+    STACK                                    0x20000008   Section     1024  startup_mm32l0xx.o(STACK)
+
+    Global Symbols
+
+    Symbol Name                              Value     Ov Type        Size  Object(Section)
+
+    BuildAttributes$$THM_ISAv3M$S$PE$A:L22$X:L11$S22$IEEE1$IW$~IW$USESV6$~STKCKD$USESV7$~SHL$OSPACE$EBA8$MICROLIB$REQ8$PRES8$EABIv2 0x00000000   Number         0  anon$$obj.o ABSOLUTE
+    __cpp_initialize__aeabi_                  - Undefined Weak Reference
+    __cxa_finalize                            - Undefined Weak Reference
+    __decompress                              - Undefined Weak Reference
+    _clock_init                               - Undefined Weak Reference
+    _microlib_exit                            - Undefined Weak Reference
+    __Vectors_Size                           0x000000c0   Number         0  startup_mm32l0xx.o ABSOLUTE
+    __Vectors                                0x08000000   Data           4  startup_mm32l0xx.o(RESET)
+    __Vectors_End                            0x080000c0   Data           0  startup_mm32l0xx.o(RESET)
+    __main                                   0x080000c1   Thumb Code     0  entry.o(.ARM.Collect$$$$00000000)
+    _main_stk                                0x080000c1   Thumb Code     0  entry2.o(.ARM.Collect$$$$00000001)
+    _main_scatterload                        0x080000c5   Thumb Code     0  entry5.o(.ARM.Collect$$$$00000004)
+    __main_after_scatterload                 0x080000c9   Thumb Code     0  entry5.o(.ARM.Collect$$$$00000004)
+    _main_clock                              0x080000c9   Thumb Code     0  entry7b.o(.ARM.Collect$$$$00000008)
+    _main_cpp_init                           0x080000c9   Thumb Code     0  entry8b.o(.ARM.Collect$$$$0000000A)
+    _main_init                               0x080000c9   Thumb Code     0  entry9a.o(.ARM.Collect$$$$0000000B)
+    __rt_final_cpp                           0x080000d1   Thumb Code     0  entry10a.o(.ARM.Collect$$$$0000000D)
+    __rt_final_exit                          0x080000d1   Thumb Code     0  entry11a.o(.ARM.Collect$$$$0000000F)
+    Reset_Handler                            0x080000d5   Thumb Code    38  startup_mm32l0xx.o(.text)
+    USB_IRQHandler                           0x08000105   Thumb Code     0  startup_mm32l0xx.o(.text)
+    __scatterload                            0x0800012d   Thumb Code    28  init.o(.text)
+    __scatterload_rt2                        0x0800012d   Thumb Code     0  init.o(.text)
+    ADC_COMP_IRQHandler                      0x08000151   Thumb Code    16  mm32l073_it.o(.text.ADC_COMP_IRQHandler)
+    AES_IRQHandler                           0x08000161   Thumb Code    16  mm32l073_it.o(.text.AES_IRQHandler)
+    CAN_IRQHandler                           0x08000171   Thumb Code    16  mm32l073_it.o(.text.CAN_IRQHandler)
+    DMA1_Channel1_IRQHandler                 0x08000181   Thumb Code    16  mm32l073_it.o(.text.DMA1_Channel1_IRQHandler)
+    DMA1_Channel2_3_IRQHandler               0x08000191   Thumb Code    16  mm32l073_it.o(.text.DMA1_Channel2_3_IRQHandler)
+    DMA1_Channel4_5_IRQHandler               0x080001a1   Thumb Code    16  mm32l073_it.o(.text.DMA1_Channel4_5_IRQHandler)
+    EXTI0_1_IRQHandler                       0x080001b1   Thumb Code    16  mm32l073_it.o(.text.EXTI0_1_IRQHandler)
+    EXTI2_3_IRQHandler                       0x080001c1   Thumb Code    16  mm32l073_it.o(.text.EXTI2_3_IRQHandler)
+    EXTI4_15_IRQHandler                      0x080001d1   Thumb Code    16  mm32l073_it.o(.text.EXTI4_15_IRQHandler)
+    FLASH_IRQHandler                         0x080001e1   Thumb Code    16  mm32l073_it.o(.text.FLASH_IRQHandler)
+    HardFault_Handler                        0x080001f1   Thumb Code    16  mm32l073_it.o(.text.HardFault_Handler)
+    I2C1_IRQHandler                          0x08000201   Thumb Code    16  mm32l073_it.o(.text.I2C1_IRQHandler)
+    NMI_Handler                              0x08000211   Thumb Code    16  mm32l073_it.o(.text.NMI_Handler)
+    PVD_IRQHandler                           0x08000221   Thumb Code    16  mm32l073_it.o(.text.PVD_IRQHandler)
+    PendSV_Handler                           0x08000231   Thumb Code    16  mm32l073_it.o(.text.PendSV_Handler)
+    RCC_CRS_IRQHandler                       0x08000241   Thumb Code    16  mm32l073_it.o(.text.RCC_CRS_IRQHandler)
+    RTC_IRQHandler                           0x08000251   Thumb Code    16  mm32l073_it.o(.text.RTC_IRQHandler)
+    SPI1_IRQHandler                          0x08000261   Thumb Code    16  mm32l073_it.o(.text.SPI1_IRQHandler)
+    SPI2_IRQHandler                          0x08000271   Thumb Code    16  mm32l073_it.o(.text.SPI2_IRQHandler)
+    SVC_Handler                              0x08000281   Thumb Code    16  mm32l073_it.o(.text.SVC_Handler)
+    SysTick_Handler                          0x08000291   Thumb Code    16  mm32l073_it.o(.text.SysTick_Handler)
+    SystemInit                               0x080002a1   Thumb Code   276  system_mm32l0xx.o(.text.SystemInit)
+    TIM14_IRQHandler                         0x080003b5   Thumb Code    16  mm32l073_it.o(.text.TIM14_IRQHandler)
+    TIM16_IRQHandler                         0x080003c5   Thumb Code    16  mm32l073_it.o(.text.TIM16_IRQHandler)
+    TIM17_IRQHandler                         0x080003d5   Thumb Code    16  mm32l073_it.o(.text.TIM17_IRQHandler)
+    TIM1_BRK_UP_TRG_COM_IRQHandler           0x080003e5   Thumb Code    16  mm32l073_it.o(.text.TIM1_BRK_UP_TRG_COM_IRQHandler)
+    TIM1_CC_IRQHandler                       0x080003f5   Thumb Code    16  mm32l073_it.o(.text.TIM1_CC_IRQHandler)
+    TIM2_IRQHandler                          0x08000405   Thumb Code    16  mm32l073_it.o(.text.TIM2_IRQHandler)
+    TIM3_IRQHandler                          0x08000415   Thumb Code    16  mm32l073_it.o(.text.TIM3_IRQHandler)
+    UART1_IRQHandler                         0x08000425   Thumb Code    16  mm32l073_it.o(.text.UART1_IRQHandler)
+    UART2_IRQHandler                         0x08000435   Thumb Code    16  mm32l073_it.o(.text.UART2_IRQHandler)
+    WWDG_IRQHandler                          0x08000445   Thumb Code    16  mm32l073_it.o(.text.WWDG_IRQHandler)
+    main                                     0x08000455   Thumb Code    48  main.o(.text.main)
+    __scatterload_copy                       0x08000485   Thumb Code    14  handlers.o(i.__scatterload_copy)
+    __scatterload_null                       0x08000493   Thumb Code     2  handlers.o(i.__scatterload_null)
+    __scatterload_zeroinit                   0x08000495   Thumb Code    14  handlers.o(i.__scatterload_zeroinit)
+    Region$$Table$$Base                      0x080004a4   Number         0  anon$$obj.o(Region$$Table)
+    Region$$Table$$Limit                     0x080004b4   Number         0  anon$$obj.o(Region$$Table)
+    JumpAddress                              0x20000000   Data           4  main.o(.bss..L_MergedGlobals)
+    Jump_To_Application                      0x20000004   Data           4  main.o(.bss..L_MergedGlobals)
+    __initial_sp                             0x20000408   Data           0  startup_mm32l0xx.o(STACK)
+
+
+
+==============================================================================
+
+Memory Map of the image
+
+  Image Entry point : 0x080000c1
+
+  Load Region LR_IROM1 (Base: 0x08000000, Size: 0x000004b4, Max: 0x00001c00, ABSOLUTE)
+
+    Execution Region ER_IROM1 (Exec base: 0x08000000, Load base: 0x08000000, Size: 0x000004b4, Max: 0x00001c00, ABSOLUTE)
+
+    Exec Addr    Load Addr    Size         Type   Attr      Idx    E Section Name        Object
+
+    0x08000000   0x08000000   0x000000c0   Data   RO          252    RESET               startup_mm32l0xx.o
+    0x080000c0   0x080000c0   0x00000000   Code   RO          259  * .ARM.Collect$$$$00000000  mc_p.l(entry.o)
+    0x080000c0   0x080000c0   0x00000004   Code   RO          264    .ARM.Collect$$$$00000001  mc_p.l(entry2.o)
+    0x080000c4   0x080000c4   0x00000004   Code   RO          267    .ARM.Collect$$$$00000004  mc_p.l(entry5.o)
+    0x080000c8   0x080000c8   0x00000000   Code   RO          269    .ARM.Collect$$$$00000008  mc_p.l(entry7b.o)
+    0x080000c8   0x080000c8   0x00000000   Code   RO          271    .ARM.Collect$$$$0000000A  mc_p.l(entry8b.o)
+    0x080000c8   0x080000c8   0x00000008   Code   RO          272    .ARM.Collect$$$$0000000B  mc_p.l(entry9a.o)
+    0x080000d0   0x080000d0   0x00000000   Code   RO          274    .ARM.Collect$$$$0000000D  mc_p.l(entry10a.o)
+    0x080000d0   0x080000d0   0x00000000   Code   RO          276    .ARM.Collect$$$$0000000F  mc_p.l(entry11a.o)
+    0x080000d0   0x080000d0   0x00000004   Code   RO          265    .ARM.Collect$$$$00002712  mc_p.l(entry2.o)
+    0x080000d4   0x080000d4   0x00000058   Code   RO          253    .text               startup_mm32l0xx.o
+    0x0800012c   0x0800012c   0x00000024   Code   RO          278    .text               mc_p.l(init.o)
+    0x08000150   0x08000150   0x00000010   Code   RO           46    .text.ADC_COMP_IRQHandler  mm32l073_it.o
+    0x08000160   0x08000160   0x00000010   Code   RO           72    .text.AES_IRQHandler  mm32l073_it.o
+    0x08000170   0x08000170   0x00000010   Code   RO           74    .text.CAN_IRQHandler  mm32l073_it.o
+    0x08000180   0x08000180   0x00000010   Code   RO           40    .text.DMA1_Channel1_IRQHandler  mm32l073_it.o
+    0x08000190   0x08000190   0x00000010   Code   RO           42    .text.DMA1_Channel2_3_IRQHandler  mm32l073_it.o
+    0x080001a0   0x080001a0   0x00000010   Code   RO           44    .text.DMA1_Channel4_5_IRQHandler  mm32l073_it.o
+    0x080001b0   0x080001b0   0x00000010   Code   RO           34    .text.EXTI0_1_IRQHandler  mm32l073_it.o
+    0x080001c0   0x080001c0   0x00000010   Code   RO           36    .text.EXTI2_3_IRQHandler  mm32l073_it.o
+    0x080001d0   0x080001d0   0x00000010   Code   RO           38    .text.EXTI4_15_IRQHandler  mm32l073_it.o
+    0x080001e0   0x080001e0   0x00000010   Code   RO           30    .text.FLASH_IRQHandler  mm32l073_it.o
+    0x080001f0   0x080001f0   0x00000010   Code   RO           16    .text.HardFault_Handler  mm32l073_it.o
+    0x08000200   0x08000200   0x00000010   Code   RO           62    .text.I2C1_IRQHandler  mm32l073_it.o
+    0x08000210   0x08000210   0x00000010   Code   RO           14    .text.NMI_Handler   mm32l073_it.o
+    0x08000220   0x08000220   0x00000010   Code   RO           26    .text.PVD_IRQHandler  mm32l073_it.o
+    0x08000230   0x08000230   0x00000010   Code   RO           20    .text.PendSV_Handler  mm32l073_it.o
+    0x08000240   0x08000240   0x00000010   Code   RO           32    .text.RCC_CRS_IRQHandler  mm32l073_it.o
+    0x08000250   0x08000250   0x00000010   Code   RO           28    .text.RTC_IRQHandler  mm32l073_it.o
+    0x08000260   0x08000260   0x00000010   Code   RO           64    .text.SPI1_IRQHandler  mm32l073_it.o
+    0x08000270   0x08000270   0x00000010   Code   RO           66    .text.SPI2_IRQHandler  mm32l073_it.o
+    0x08000280   0x08000280   0x00000010   Code   RO           18    .text.SVC_Handler   mm32l073_it.o
+    0x08000290   0x08000290   0x00000010   Code   RO           22    .text.SysTick_Handler  mm32l073_it.o
+    0x080002a0   0x080002a0   0x00000114   Code   RO          240    .text.SystemInit    system_mm32l0xx.o
+    0x080003b4   0x080003b4   0x00000010   Code   RO           56    .text.TIM14_IRQHandler  mm32l073_it.o
+    0x080003c4   0x080003c4   0x00000010   Code   RO           58    .text.TIM16_IRQHandler  mm32l073_it.o
+    0x080003d4   0x080003d4   0x00000010   Code   RO           60    .text.TIM17_IRQHandler  mm32l073_it.o
+    0x080003e4   0x080003e4   0x00000010   Code   RO           48    .text.TIM1_BRK_UP_TRG_COM_IRQHandler  mm32l073_it.o
+    0x080003f4   0x080003f4   0x00000010   Code   RO           50    .text.TIM1_CC_IRQHandler  mm32l073_it.o
+    0x08000404   0x08000404   0x00000010   Code   RO           52    .text.TIM2_IRQHandler  mm32l073_it.o
+    0x08000414   0x08000414   0x00000010   Code   RO           54    .text.TIM3_IRQHandler  mm32l073_it.o
+    0x08000424   0x08000424   0x00000010   Code   RO           68    .text.UART1_IRQHandler  mm32l073_it.o
+    0x08000434   0x08000434   0x00000010   Code   RO           70    .text.UART2_IRQHandler  mm32l073_it.o
+    0x08000444   0x08000444   0x00000010   Code   RO           24    .text.WWDG_IRQHandler  mm32l073_it.o
+    0x08000454   0x08000454   0x00000030   Code   RO            2    .text.main          main.o
+    0x08000484   0x08000484   0x0000000e   Code   RO          282    i.__scatterload_copy  mc_p.l(handlers.o)
+    0x08000492   0x08000492   0x00000002   Code   RO          283    i.__scatterload_null  mc_p.l(handlers.o)
+    0x08000494   0x08000494   0x0000000e   Code   RO          284    i.__scatterload_zeroinit  mc_p.l(handlers.o)
+    0x080004a2   0x080004a2   0x00000002   PAD
+    0x080004a4   0x080004a4   0x00000010   Data   RO          281    Region$$Table       anon$$obj.o
+
+
+    Execution Region RW_IRAM1 (Exec base: 0x20000000, Load base: 0x080004b4, Size: 0x00000408, Max: 0x00002000, ABSOLUTE)
+
+    Exec Addr    Load Addr    Size         Type   Attr      Idx    E Section Name        Object
+
+    0x20000000        -       0x00000008   Zero   RW            5    .bss..L_MergedGlobals  main.o
+    0x20000008        -       0x00000400   Zero   RW          250    STACK               startup_mm32l0xx.o
+
+
+==============================================================================
+
+Image component sizes
+
+
+      Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
+
+        48         12          0          0          8        907   main.o
+       496        124          0          0          0       4741   mm32l073_it.o
+        88         38        192          0       1024        716   startup_mm32l0xx.o
+       276         28          0          0          0       1725   system_mm32l0xx.o
+
+    ----------------------------------------------------------------------
+       908        202        208          0       1032       8089   Object Totals
+         0          0         16          0          0          0   (incl. Generated)
+         0          0          0          0          0          0   (incl. Padding)
+
+    ----------------------------------------------------------------------
+
+      Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Library Member Name
+
+         0          0          0          0          0          0   entry.o
+         0          0          0          0          0          0   entry10a.o
+         0          0          0          0          0          0   entry11a.o
+         8          4          0          0          0          0   entry2.o
+         4          0          0          0          0          0   entry5.o
+         0          0          0          0          0          0   entry7b.o
+         0          0          0          0          0          0   entry8b.o
+         8          4          0          0          0          0   entry9a.o
+        30          0          0          0          0          0   handlers.o
+        36          8          0          0          0         68   init.o
+
+    ----------------------------------------------------------------------
+        88         16          0          0          0         68   Library Totals
+         2          0          0          0          0          0   (incl. Padding)
+
+    ----------------------------------------------------------------------
+
+      Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Library Name
+
+        86         16          0          0          0         68   mc_p.l
+
+    ----------------------------------------------------------------------
+        88         16          0          0          0         68   Library Totals
+
+    ----------------------------------------------------------------------
+
+==============================================================================
+
+
+      Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
+
+       996        218        208          0       1032       8277   Grand Totals
+       996        218        208          0       1032       8277   ELF Image Totals
+       996        218        208          0          0          0   ROM Totals
+
+==============================================================================
+
+    Total RO  Size (Code + RO Data)                 1204 (   1.18kB)
+    Total RW  Size (RW Data + ZI Data)              1032 (   1.01kB)
+    Total ROM Size (Code + RO Data + RW Data)       1204 (   1.18kB)
+
+==============================================================================
+

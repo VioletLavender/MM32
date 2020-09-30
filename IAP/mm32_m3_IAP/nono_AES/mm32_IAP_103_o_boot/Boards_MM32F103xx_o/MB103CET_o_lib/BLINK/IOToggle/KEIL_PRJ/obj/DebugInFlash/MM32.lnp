@@ -1,0 +1,20 @@
+--cpu Cortex-M3
+".\obj\debuginflash\main.o"
+".\obj\debuginflash\common.o"
+".\obj\debuginflash\ymodem.o"
+".\obj\debuginflash\upload.o"
+".\obj\debuginflash\download.o"
+".\obj\debuginflash\aes.o"
+".\obj\debuginflash\system_mm32f103xcxe_o.o"
+".\obj\debuginflash\startup_mm32f103xcxe_o.o"
+".\obj\debuginflash\hal_aes.o"
+".\obj\debuginflash\hal_flash.o"
+".\obj\debuginflash\hal_gpio.o"
+".\obj\debuginflash\hal_misc.o"
+".\obj\debuginflash\hal_rcc.o"
+".\obj\debuginflash\hal_syscfg.o"
+".\obj\debuginflash\hal_uart.o"
+--strict --scatter ".\obj\DebugInFlash\MM32.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\MM32.map" -o .\obj\DebugInFlash\MM32.axf

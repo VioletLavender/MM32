@@ -1,0 +1,58 @@
+T0008 000:015.841   SEGGER J-Link V6.80 Log File
+T0008 000:015.968   DLL Compiled: May 25 2020 17:04:25
+T0008 000:015.977   Logging started @ 2020-06-03 06:01
+T0008 000:015.988 JLINK_SetWarnOutHandler(...)
+T0008 000:015.999 - 0.014ms
+T0008 000:016.012 JLINK_OpenEx(...)
+T0008 000:018.278   Firmware: J-Link ARM V8 compiled Nov 28 2014 13:44:46
+T0008 000:023.313   Hardware: V8.00
+T0008 000:023.336   S/N: 799713843
+T0008 000:023.350   OEM: SEGGER
+T0008 000:023.362   Feature(s): RDI,FlashDL,FlashBP,JFlash,GDBFULL
+T0008 000:032.668   TELNET listener socket opened on port 19021
+T0008 000:032.797   WEBSRV Starting webserver
+T0008 000:032.906   WEBSRV Webserver running on local port 19080
+T0008 000:032.921 - 16.912ms returns "O.K."
+T0008 000:032.940 JLINK_GetEmuCaps()
+T0008 000:032.950 - 0.013ms returns 0xB9FF7BBF
+T0008 000:032.963 JLINK_TIF_GetAvailable(...)
+T0008 000:033.501 - 0.545ms
+T0008 000:033.518 JLINK_SetErrorOutHandler(...)
+T0008 000:033.527 - 0.013ms
+T0008 000:033.553 JLINK_ExecCommand("ProjectFile = "C:\Users\24716\Desktop\MM32W0xxxB 蓝牙OTA升级开发包V1.0\2-Sample_Code\MM32W073_OTA_BOOT\OTA_BOOT\KEIL_PRJ\JLinkSettings.ini"", ...). 
+T0008 000:040.879   Ref file found at: C:\Keil_v5\ARM\Segger\JLinkDevices.ref
+T0008 000:040.994   XML referenced by ref file: C:\software\JLINK\JLinkDevices.xml
+T0008 000:041.721   C:\software\JLINK\JLinkDevices.xml evaluated successfully.
+T0008 000:075.560   Device "MM32L073XX" selected.
+T0008 000:075.797 - 42.257ms returns 0x00
+T0008 000:075.827 JLINK_ExecCommand("Device = MM32L073PF", ...). 
+T0008 000:076.026   Device "MM32L073XX" selected.
+T0008 000:076.247 - 0.414ms returns 0x00
+T0008 000:076.262 JLINK_ExecCommand("DisableConnectionTimeout", ...). 
+T0008 000:076.277 - 0.007ms returns 0x01
+T0008 000:076.288 JLINK_GetHardwareVersion()
+T0008 000:076.297 - 0.012ms returns 0x13880
+T0008 000:076.313 JLINK_GetDLLVersion()  returns 68000
+T0008 000:076.326 JLINK_GetFirmwareString(...)
+T0008 000:076.337 - 0.016ms
+T0008 000:076.404 JLINK_GetDLLVersion()  returns 68000
+T0008 000:076.419 JLINK_GetCompileDateTime()
+T0008 000:076.441 - 0.026ms
+T0008 000:076.458 JLINK_GetFirmwareString(...)
+T0008 000:076.467 - 0.012ms
+T0008 000:076.482 JLINK_GetHardwareVersion()
+T0008 000:076.490 - 0.012ms returns 0x13880
+T0008 000:076.518 JLINK_TIF_Select(JLINKARM_TIF_SWD)
+T0008 000:078.531 - 2.024ms returns 0x00
+T0008 000:078.579 JLINK_SetSpeed(5000)
+T0008 000:079.000 - 0.429ms
+T0008 000:079.030 JLINK_GetId()
+T0008 000:080.960   Found SW-DP with ID 0x0BB11477
+T0008 000:684.020   Failed to power up DAP
+T0008 001:452.541   Found SW-DP with ID 0x0BB11477
+T0008 002:056.787   Failed to power up DAP
+T0008 002:157.790 - 2078.784ms   returns 0x00000000
+T0008 004:666.462 JLINK_Close()
+T0008 004:676.190 - 9.744ms
+T0008 004:676.211   
+T0008 004:676.220   Closed

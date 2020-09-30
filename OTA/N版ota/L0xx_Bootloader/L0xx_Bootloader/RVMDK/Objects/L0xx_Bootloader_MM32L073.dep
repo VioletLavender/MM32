@@ -1,0 +1,113 @@
+Dependencies for Project 'L0xx_Bootloader', Target 'MM32L073': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::.\ARMCC
+F (..\User\main.c)(0x5D53D5F0)(-c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\Device\MM32L0xx\HAL_lib\inc -I ..\..\Device\MM32L0xx\Include-I.\RTE\_MM32L073-IC:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\24716\AppData\Local\Arm\Packs\MindMotion\MM32L0xx_DFP\1.0.8\Device\MM32L0xx\Include-D__UVISION_VERSION="530" -D_RTE_ -DMM32L073PF -D_RTE_ -DUSE_STDPERIPH_DRIVER-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (..\..\Device\MM32L0xx\Include\MM32L073PF.h)(0x59A67A48)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53505C)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_conf.h)(0x5B9B5492)
+I (..\..\Device\MM32L0xx\Include\HAL_device.h)(0x59AFB22C)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_flash.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_rcc.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_misc.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_syscfg.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_gpio.h)(0x599BD160)
+I (..\User\boot.h)(0x5DAEC75F)
+F (..\User\MM32L073_it.c)(0x5D552FFA)(-c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\Device\MM32L0xx\HAL_lib\inc -I ..\..\Device\MM32L0xx\Include-I.\RTE\_MM32L073-IC:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\24716\AppData\Local\Arm\Packs\MindMotion\MM32L0xx_DFP\1.0.8\Device\MM32L0xx\Include-D__UVISION_VERSION="530" -D_RTE_ -DMM32L073PF -D_RTE_ -DUSE_STDPERIPH_DRIVER-o .\objects\mm32l073_it.o --omf_browse .\objects\mm32l073_it.crf --depend .\objects\mm32l073_it.d)
+I (..\User\MM32L073_it.h)(0x5D5362E0)
+I (..\..\Device\MM32L0xx\Include\MM32L073PF.h)(0x59A67A48)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53505C)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_conf.h)(0x5B9B5492)
+I (..\..\Device\MM32L0xx\Include\HAL_device.h)(0x59AFB22C)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_flash.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_rcc.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_misc.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_syscfg.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_gpio.h)(0x599BD160)
+I (..\User\boot.h)(0x5DAEC75F)
+F (..\..\Device\MM32L0xx\HAL_lib\src\HAL_flash.c)(0x599BD0E6)(-c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\Device\MM32L0xx\HAL_lib\inc -I ..\..\Device\MM32L0xx\Include-I.\RTE\_MM32L073-IC:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\24716\AppData\Local\Arm\Packs\MindMotion\MM32L0xx_DFP\1.0.8\Device\MM32L0xx\Include-D__UVISION_VERSION="530" -D_RTE_ -DMM32L073PF -D_RTE_ -DUSE_STDPERIPH_DRIVER-o .\objects\hal_flash.o --omf_browse .\objects\hal_flash.crf --depend .\objects\hal_flash.d)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_flash.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\Include\HAL_device.h)(0x59AFB22C)
+I (..\..\Device\MM32L0xx\Include\MM32L073PF.h)(0x59A67A48)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53505C)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_conf.h)(0x5B9B5492)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_rcc.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_misc.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_syscfg.h)(0x599BD160)
+F (..\..\Device\MM32L0xx\HAL_lib\src\HAL_misc.c)(0x599BD0E6)(-c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\Device\MM32L0xx\HAL_lib\inc -I ..\..\Device\MM32L0xx\Include-I.\RTE\_MM32L073-IC:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\24716\AppData\Local\Arm\Packs\MindMotion\MM32L0xx_DFP\1.0.8\Device\MM32L0xx\Include-D__UVISION_VERSION="530" -D_RTE_ -DMM32L073PF -D_RTE_ -DUSE_STDPERIPH_DRIVER-o .\objects\hal_misc.o --omf_browse .\objects\hal_misc.crf --depend .\objects\hal_misc.d)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_misc.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\Include\HAL_device.h)(0x59AFB22C)
+I (..\..\Device\MM32L0xx\Include\MM32L073PF.h)(0x59A67A48)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53505C)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_conf.h)(0x5B9B5492)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_flash.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_rcc.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_syscfg.h)(0x599BD160)
+F (..\..\Device\MM32L0xx\HAL_lib\src\HAL_rcc.c)(0x599BD0E6)(-c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\Device\MM32L0xx\HAL_lib\inc -I ..\..\Device\MM32L0xx\Include-I.\RTE\_MM32L073-IC:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\24716\AppData\Local\Arm\Packs\MindMotion\MM32L0xx_DFP\1.0.8\Device\MM32L0xx\Include-D__UVISION_VERSION="530" -D_RTE_ -DMM32L073PF -D_RTE_ -DUSE_STDPERIPH_DRIVER-o .\objects\hal_rcc.o --omf_browse .\objects\hal_rcc.crf --depend .\objects\hal_rcc.d)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_rcc.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\Include\HAL_device.h)(0x59AFB22C)
+I (..\..\Device\MM32L0xx\Include\MM32L073PF.h)(0x59A67A48)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53505C)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_conf.h)(0x5B9B5492)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_flash.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_misc.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_syscfg.h)(0x599BD160)
+F (..\..\Device\MM32L0xx\HAL_lib\src\HAL_syscfg.c)(0x599BD0E6)(-c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\Device\MM32L0xx\HAL_lib\inc -I ..\..\Device\MM32L0xx\Include-I.\RTE\_MM32L073-IC:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\24716\AppData\Local\Arm\Packs\MindMotion\MM32L0xx_DFP\1.0.8\Device\MM32L0xx\Include-D__UVISION_VERSION="530" -D_RTE_ -DMM32L073PF -D_RTE_ -DUSE_STDPERIPH_DRIVER-o .\objects\hal_syscfg.o --omf_browse .\objects\hal_syscfg.crf --depend .\objects\hal_syscfg.d)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_syscfg.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\Include\HAL_device.h)(0x59AFB22C)
+I (..\..\Device\MM32L0xx\Include\MM32L073PF.h)(0x59A67A48)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53505C)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_conf.h)(0x5B9B5492)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_flash.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_rcc.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_misc.h)(0x599BD160)
+F (..\..\Device\MM32L0xx\HAL_lib\src\HAL_gpio.c)(0x599BD0E6)(-c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\Device\MM32L0xx\HAL_lib\inc -I ..\..\Device\MM32L0xx\Include-I.\RTE\_MM32L073-IC:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\24716\AppData\Local\Arm\Packs\MindMotion\MM32L0xx_DFP\1.0.8\Device\MM32L0xx\Include-D__UVISION_VERSION="530" -D_RTE_ -DMM32L073PF -D_RTE_ -DUSE_STDPERIPH_DRIVER-o .\objects\hal_gpio.o --omf_browse .\objects\hal_gpio.crf --depend .\objects\hal_gpio.d)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_gpio.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\Include\HAL_device.h)(0x59AFB22C)
+I (..\..\Device\MM32L0xx\Include\MM32L073PF.h)(0x59A67A48)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53505C)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_conf.h)(0x5B9B5492)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_flash.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_rcc.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_misc.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_syscfg.h)(0x599BD160)
+F (..\..\Device\MM32L0xx\Source\system_MM32L0xx.c)(0x5DAEC601)(-c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\Device\MM32L0xx\HAL_lib\inc -I ..\..\Device\MM32L0xx\Include-I.\RTE\_MM32L073-IC:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\24716\AppData\Local\Arm\Packs\MindMotion\MM32L0xx_DFP\1.0.8\Device\MM32L0xx\Include-D__UVISION_VERSION="530" -D_RTE_ -DMM32L073PF -D_RTE_ -DUSE_STDPERIPH_DRIVER-o .\objects\system_mm32l0xx.o --omf_browse .\objects\system_mm32l0xx.crf --depend .\objects\system_mm32l0xx.d)
+I (..\..\Device\MM32L0xx\Include\HAL_device.h)(0x59AFB22C)
+I (..\..\Device\MM32L0xx\Include\MM32L073PF.h)(0x59A67A48)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53505C)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_conf.h)(0x5B9B5492)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_flash.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_rcc.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_misc.h)(0x599BD160)
+I (..\..\Device\MM32L0xx\HAL_lib\inc\HAL_syscfg.h)(0x599BD160)
+F (..\..\Device\MM32L0xx\Source\KEIL_StartAsm\startup_MM32L0xx.s)(0x598D4FB6)(--cpu Cortex-M0 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\_MM32L073-IC:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\24716\AppData\Local\Arm\Packs\MindMotion\MM32L0xx_DFP\1.0.8\Device\MM32L0xx\Include--pd "__UVISION_VERSION SETA 530" --pd "_RTE_ SETA 1" --pd "MM32L073PF SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_mm32l0xx.lst --xref -o .\objects\startup_mm32l0xx.o --depend .\objects\startup_mm32l0xx.d)

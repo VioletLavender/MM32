@@ -1,0 +1,2210 @@
+Archive member included to satisfy reference by file (symbol)
+
+e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+                              e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (exit)
+e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+                              e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o) (_global_impure_ptr)
+e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+                              e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_init_array)
+e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+                              e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (memset)
+e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+                              e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o) (__call_exitprocs)
+e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+                              e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o) (atexit)
+e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+                              e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+                              e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crti.o
+ .data          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crti.o
+ .bss           0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crti.o
+ .data          0x00000000        0x4 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+ .text          0x00000000       0x74 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .data          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .bss           0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_adc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_adc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_adc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_adc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_adc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_adc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_adc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_adc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_adc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_adc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_adc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_adc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_adc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_adc.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_adc.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_adc.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_DeInit
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_Init
+                0x00000000       0x6c Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_StructInit
+                0x00000000       0x30 Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_Cmd  0x00000000       0x38 Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_DMACmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_ITConfig
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_SoftwareStartConvCmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_GetSoftwareStartConvStatus
+                0x00000000       0x30 Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_RegularChannelConfig
+                0x00000000       0xf8 Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_ExternalTrigConvCmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_GetConversionValue
+                0x00000000       0x90 Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_ExternalTrigInjectedConvCmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_AnalogWatchdogCmd
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x00000000       0x2c Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_TempSensorVrefintCmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_GetFlagStatus
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_ClearFlag
+                0x00000000       0x24 Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_GetITStatus
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_adc.o
+ .text.ADC_ClearITPendingBit
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_adc.o
+ .debug_info    0x00000000      0x74f Device\Hal_Lib\src\HAL_adc.o
+ .debug_abbrev  0x00000000      0x167 Device\Hal_Lib\src\HAL_adc.o
+ .debug_aranges
+                0x00000000       0xc0 Device\Hal_Lib\src\HAL_adc.o
+ .debug_ranges  0x00000000       0xb0 Device\Hal_Lib\src\HAL_adc.o
+ .debug_macro   0x00000000      0x155 Device\Hal_Lib\src\HAL_adc.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_adc.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_adc.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_adc.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_adc.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_adc.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_adc.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_adc.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_adc.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_adc.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_adc.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_adc.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_adc.o
+ .debug_macro   0x00000000      0x272 Device\Hal_Lib\src\HAL_adc.o
+ .debug_macro   0x00000000      0x41b Device\Hal_Lib\src\HAL_adc.o
+ .debug_line    0x00000000      0x470 Device\Hal_Lib\src\HAL_adc.o
+ .debug_str     0x00000000    0x24083 Device\Hal_Lib\src\HAL_adc.o
+ .comment       0x00000000       0x6f Device\Hal_Lib\src\HAL_adc.o
+ .debug_frame   0x00000000      0x354 Device\Hal_Lib\src\HAL_adc.o
+ .ARM.attributes
+                0x00000000       0x33 Device\Hal_Lib\src\HAL_adc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_aes.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_aes.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_aes.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_aes.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_aes.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_aes.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_aes.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_aes.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_aes.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_aes.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_aes.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_aes.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_aes.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_aes.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_aes.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_aes.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_DeInit
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_Init
+                0x00000000       0x48 Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_KeyInit
+                0x00000000       0x58 Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_IVInit
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_Cmd  0x00000000       0x38 Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_KeySize
+                0x00000000       0x30 Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_StructInit
+                0x00000000       0x24 Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_KeyStructInit
+                0x00000000       0x44 Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_IVStructInit
+                0x00000000       0x2c Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_WriteSubData
+                0x00000000       0x2c Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_ReadSubData
+                0x00000000       0x14 Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_ReadKey
+                0x00000000       0x58 Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_ReadIV
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_DMAConfig
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_ITConfig
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_GetFlagStatus
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_ClearFlag
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_GetITStatus
+                0x00000000       0x80 Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_ClearITPendingBit
+                0x00000000       0x24 Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_ECB_Encrypt
+                0x00000000      0x2fc Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_ECB_Decrypt
+                0x00000000      0x394 Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_CBC_Encrypt
+                0x00000000      0x3ac Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_CBC_Decrypt
+                0x00000000      0x42c Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_CTR_Encrypt
+                0x00000000      0x3ac Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_CTR_Decrypt
+                0x00000000      0x438 Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_CFB_Encrypt
+                0x00000000      0x3ac Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_CFB_Decrypt
+                0x00000000      0x43c Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_OFB_Encrypt
+                0x00000000      0x3b0 Device\Hal_Lib\src\HAL_aes.o
+ .text.AES_OFB_Decrypt
+                0x00000000      0x58c Device\Hal_Lib\src\HAL_aes.o
+ .debug_info    0x00000000      0xcaa Device\Hal_Lib\src\HAL_aes.o
+ .debug_abbrev  0x00000000      0x1f6 Device\Hal_Lib\src\HAL_aes.o
+ .debug_aranges
+                0x00000000      0x100 Device\Hal_Lib\src\HAL_aes.o
+ .debug_ranges  0x00000000       0xf0 Device\Hal_Lib\src\HAL_aes.o
+ .debug_macro   0x00000000       0xc5 Device\Hal_Lib\src\HAL_aes.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_aes.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_aes.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_aes.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_aes.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_aes.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_aes.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_aes.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_aes.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_aes.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_aes.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_aes.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_aes.o
+ .debug_macro   0x00000000       0xc9 Device\Hal_Lib\src\HAL_aes.o
+ .debug_macro   0x00000000      0x41b Device\Hal_Lib\src\HAL_aes.o
+ .debug_line    0x00000000      0x9c4 Device\Hal_Lib\src\HAL_aes.o
+ .debug_str     0x00000000    0x22c17 Device\Hal_Lib\src\HAL_aes.o
+ .comment       0x00000000       0x6f Device\Hal_Lib\src\HAL_aes.o
+ .debug_frame   0x00000000      0x484 Device\Hal_Lib\src\HAL_aes.o
+ .ARM.attributes
+                0x00000000       0x33 Device\Hal_Lib\src\HAL_aes.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_bkp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_bkp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_bkp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_bkp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_bkp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_bkp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_bkp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_bkp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_bkp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_bkp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_bkp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_bkp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_bkp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_bkp.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_bkp.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_bkp.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_bkp.o
+ .text.BKP_DeInit
+                0x00000000       0x14 Device\Hal_Lib\src\HAL_bkp.o
+ .text.BKP_TamperPinLevelConfig
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_bkp.o
+ .text.BKP_TamperPinCmd
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_bkp.o
+ .text.BKP_ITConfig
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_bkp.o
+ .text.BKP_RTCOutputConfig
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_bkp.o
+ .text.BKP_SetRTCCalibrationValue
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_bkp.o
+ .text.BKP_WriteBackupRegister
+                0x00000000       0x2c Device\Hal_Lib\src\HAL_bkp.o
+ .text.BKP_ReadBackupRegister
+                0x00000000       0x24 Device\Hal_Lib\src\HAL_bkp.o
+ .text.BKP_GetFlagStatus
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_bkp.o
+ .text.BKP_ClearFlag
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_bkp.o
+ .text.BKP_GetITStatus
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_bkp.o
+ .text.BKP_ClearITPendingBit
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_bkp.o
+ .debug_info    0x00000000      0x53f Device\Hal_Lib\src\HAL_bkp.o
+ .debug_abbrev  0x00000000      0x163 Device\Hal_Lib\src\HAL_bkp.o
+ .debug_aranges
+                0x00000000       0x78 Device\Hal_Lib\src\HAL_bkp.o
+ .debug_ranges  0x00000000       0x68 Device\Hal_Lib\src\HAL_bkp.o
+ .debug_macro   0x00000000      0x125 Device\Hal_Lib\src\HAL_bkp.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_bkp.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_bkp.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_bkp.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_bkp.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_bkp.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_bkp.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_bkp.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_bkp.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_bkp.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_bkp.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_bkp.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_bkp.o
+ .debug_macro   0x00000000       0x7d Device\Hal_Lib\src\HAL_bkp.o
+ .debug_macro   0x00000000      0x41b Device\Hal_Lib\src\HAL_bkp.o
+ .debug_line    0x00000000      0x36e Device\Hal_Lib\src\HAL_bkp.o
+ .debug_str     0x00000000    0x22d79 Device\Hal_Lib\src\HAL_bkp.o
+ .comment       0x00000000       0x6f Device\Hal_Lib\src\HAL_bkp.o
+ .debug_frame   0x00000000      0x1c4 Device\Hal_Lib\src\HAL_bkp.o
+ .ARM.attributes
+                0x00000000       0x33 Device\Hal_Lib\src\HAL_bkp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_can.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_can.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_can.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_can.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_can.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_can.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_can.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_can.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_can.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_can.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_can.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_can.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_can.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_can.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_can.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_can.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_DeInit
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_Init
+                0x00000000       0x90 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_FilterInit
+                0x00000000       0x28 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_StructInit
+                0x00000000       0x50 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_ITConfig
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_Transmit
+                0x00000000       0x9c Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_CancelTransmit
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_FIFORelease
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_Receive
+                0x00000000       0xb0 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_Sleep
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_WakeUp
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_GetFlagStatus
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_GetITStatus
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_Mode_Cmd
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_ResetMode_Cmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_ClearDataOverflow
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_ClearITPendingBit
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_Peli_SleepMode_Cmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_Peli_StructInit
+                0x00000000       0x50 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_Peli_Init
+                0x00000000       0xac Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_Peli_FilterInit
+                0x00000000       0x78 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_Peli_FilterStructInit
+                0x00000000       0x44 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_Peli_Transmit
+                0x00000000      0x118 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_Peli_TransmitRepeat
+                0x00000000      0x114 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_Peli_Receive
+                0x00000000      0x144 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_Peli_GetRxFIFOInfo
+                0x00000000       0x14 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_Peli_GetLastErrorCode
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_Peli_GetReceiveErrorCounter
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_Peli_GetLSBTransmitErrorCounter
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_Peli_ITConfig
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_Peli_GetITStatus
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_can.o
+ .text.CAN_AutoCfg_BaudParam
+                0x00000000       0xc4 Device\Hal_Lib\src\HAL_can.o
+ .debug_info    0x00000000      0xe63 Device\Hal_Lib\src\HAL_can.o
+ .debug_abbrev  0x00000000      0x1f6 Device\Hal_Lib\src\HAL_can.o
+ .debug_aranges
+                0x00000000      0x118 Device\Hal_Lib\src\HAL_can.o
+ .debug_ranges  0x00000000      0x108 Device\Hal_Lib\src\HAL_can.o
+ .debug_macro   0x00000000       0xbf Device\Hal_Lib\src\HAL_can.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_can.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_can.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_can.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_can.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_can.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_can.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_can.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_can.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_can.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_can.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_can.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_can.o
+ .debug_macro   0x00000000      0x114 Device\Hal_Lib\src\HAL_can.o
+ .debug_macro   0x00000000      0x41b Device\Hal_Lib\src\HAL_can.o
+ .debug_line    0x00000000      0x5d4 Device\Hal_Lib\src\HAL_can.o
+ .debug_str     0x00000000    0x22c28 Device\Hal_Lib\src\HAL_can.o
+ .comment       0x00000000       0x6f Device\Hal_Lib\src\HAL_can.o
+ .debug_frame   0x00000000      0x4fc Device\Hal_Lib\src\HAL_can.o
+ .ARM.attributes
+                0x00000000       0x33 Device\Hal_Lib\src\HAL_can.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_comp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_comp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_comp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_comp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_comp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_comp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_comp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_comp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_comp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_comp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_comp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_comp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_comp.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_comp.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_comp.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_comp.o
+ .text.COMP_DeInit
+                0x00000000       0x24 Device\Hal_Lib\src\HAL_comp.o
+ .text.COMP_Init
+                0x00000000       0x68 Device\Hal_Lib\src\HAL_comp.o
+ .text.COMP_StructInit
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_comp.o
+ .text.COMP_Cmd
+                0x00000000       0x50 Device\Hal_Lib\src\HAL_comp.o
+ .text.COMP_SwitchCmd
+                0x00000000       0x50 Device\Hal_Lib\src\HAL_comp.o
+ .text.COMP_GetOutputLevel
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_comp.o
+ .text.COMP_LockConfig
+                0x00000000       0x2c Device\Hal_Lib\src\HAL_comp.o
+ .debug_info    0x00000000      0x297 Device\Hal_Lib\src\HAL_comp.o
+ .debug_abbrev  0x00000000      0x11b Device\Hal_Lib\src\HAL_comp.o
+ .debug_aranges
+                0x00000000       0x50 Device\Hal_Lib\src\HAL_comp.o
+ .debug_ranges  0x00000000       0x40 Device\Hal_Lib\src\HAL_comp.o
+ .debug_macro   0x00000000       0xe0 Device\Hal_Lib\src\HAL_comp.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_comp.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_comp.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_comp.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_comp.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_comp.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_comp.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_comp.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_comp.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_comp.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_comp.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_comp.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_comp.o
+ .debug_macro   0x00000000      0x143 Device\Hal_Lib\src\HAL_comp.o
+ .debug_line    0x00000000      0x31f Device\Hal_Lib\src\HAL_comp.o
+ .debug_str     0x00000000    0x210ef Device\Hal_Lib\src\HAL_comp.o
+ .comment       0x00000000       0x6f Device\Hal_Lib\src\HAL_comp.o
+ .debug_frame   0x00000000      0x128 Device\Hal_Lib\src\HAL_comp.o
+ .ARM.attributes
+                0x00000000       0x33 Device\Hal_Lib\src\HAL_comp.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_crc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_crc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_crc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_crc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_crc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_crc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_crc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_crc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_crc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_crc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_crc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_crc.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_crc.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_crc.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_crc.o
+ .text.CRC_ResetDR
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_crc.o
+ .text.CRC_CalcCRC
+                0x00000000       0x30 Device\Hal_Lib\src\HAL_crc.o
+ .text.CRC_CalcBlockCRC
+                0x00000000       0x44 Device\Hal_Lib\src\HAL_crc.o
+ .text.CRC_GetCRC
+                0x00000000       0x14 Device\Hal_Lib\src\HAL_crc.o
+ .text.CRC_SetIDRegister
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_crc.o
+ .text.CRC_GetIDRegister
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_crc.o
+ .debug_info    0x00000000      0x20f Device\Hal_Lib\src\HAL_crc.o
+ .debug_abbrev  0x00000000      0x128 Device\Hal_Lib\src\HAL_crc.o
+ .debug_aranges
+                0x00000000       0x48 Device\Hal_Lib\src\HAL_crc.o
+ .debug_ranges  0x00000000       0x38 Device\Hal_Lib\src\HAL_crc.o
+ .debug_macro   0x00000000       0xb7 Device\Hal_Lib\src\HAL_crc.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_crc.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_crc.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_crc.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_crc.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_crc.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_crc.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_crc.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_crc.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_crc.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_crc.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_crc.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_crc.o
+ .debug_line    0x00000000      0x309 Device\Hal_Lib\src\HAL_crc.o
+ .debug_str     0x00000000    0x2011e Device\Hal_Lib\src\HAL_crc.o
+ .comment       0x00000000       0x6f Device\Hal_Lib\src\HAL_crc.o
+ .debug_frame   0x00000000       0xe8 Device\Hal_Lib\src\HAL_crc.o
+ .ARM.attributes
+                0x00000000       0x33 Device\Hal_Lib\src\HAL_crc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_dma.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_dma.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_dma.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_dma.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_dma.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_dma.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_dma.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_dma.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_dma.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_dma.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_dma.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_dma.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_dma.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_dma.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_dma.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_dma.o
+ .text.DMA_DeInit
+                0x00000000      0x178 Device\Hal_Lib\src\HAL_dma.o
+ .text.DMA_Init
+                0x00000000       0x7c Device\Hal_Lib\src\HAL_dma.o
+ .text.DMA_StructInit
+                0x00000000       0x54 Device\Hal_Lib\src\HAL_dma.o
+ .text.DMA_Cmd  0x00000000       0x38 Device\Hal_Lib\src\HAL_dma.o
+ .text.DMA_ITConfig
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_dma.o
+ .text.DMA_GetCurrDataCounter
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_dma.o
+ .text.DMA_GetFlagStatus
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_dma.o
+ .text.DMA_ClearFlag
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_dma.o
+ .text.DMA_GetITStatus
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_dma.o
+ .text.DMA_ClearITPendingBit
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_dma.o
+ .debug_info    0x00000000      0x447 Device\Hal_Lib\src\HAL_dma.o
+ .debug_abbrev  0x00000000      0x15c Device\Hal_Lib\src\HAL_dma.o
+ .debug_aranges
+                0x00000000       0x68 Device\Hal_Lib\src\HAL_dma.o
+ .debug_ranges  0x00000000       0x58 Device\Hal_Lib\src\HAL_dma.o
+ .debug_macro   0x00000000      0x11c Device\Hal_Lib\src\HAL_dma.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_dma.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_dma.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_dma.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_dma.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_dma.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_dma.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_dma.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_dma.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_dma.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_dma.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_dma.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_dma.o
+ .debug_macro   0x00000000      0x3a0 Device\Hal_Lib\src\HAL_dma.o
+ .debug_line    0x00000000      0x39a Device\Hal_Lib\src\HAL_dma.o
+ .debug_str     0x00000000    0x222fe Device\Hal_Lib\src\HAL_dma.o
+ .comment       0x00000000       0x6f Device\Hal_Lib\src\HAL_dma.o
+ .debug_frame   0x00000000      0x1a0 Device\Hal_Lib\src\HAL_dma.o
+ .ARM.attributes
+                0x00000000       0x33 Device\Hal_Lib\src\HAL_dma.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_exti.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_exti.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_exti.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_exti.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_exti.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_exti.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_exti.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_exti.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_exti.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_exti.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_exti.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_exti.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_exti.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_exti.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_exti.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_exti.o
+ .text.EXTI_DeInit
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_exti.o
+ .text.EXTI_Init
+                0x00000000       0xe8 Device\Hal_Lib\src\HAL_exti.o
+ .text.EXTI_StructInit
+                0x00000000       0x2c Device\Hal_Lib\src\HAL_exti.o
+ .text.EXTI_GenerateSWInterrupt
+                0x00000000       0x24 Device\Hal_Lib\src\HAL_exti.o
+ .text.EXTI_GetFlagStatus
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_exti.o
+ .text.EXTI_ClearFlag
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_exti.o
+ .text.EXTI_GetITStatus
+                0x00000000       0x48 Device\Hal_Lib\src\HAL_exti.o
+ .text.EXTI_ClearITPendingBit
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_exti.o
+ .debug_info    0x00000000      0x354 Device\Hal_Lib\src\HAL_exti.o
+ .debug_abbrev  0x00000000      0x14b Device\Hal_Lib\src\HAL_exti.o
+ .debug_aranges
+                0x00000000       0x58 Device\Hal_Lib\src\HAL_exti.o
+ .debug_ranges  0x00000000       0x48 Device\Hal_Lib\src\HAL_exti.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_exti.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_exti.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_exti.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_exti.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_exti.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_exti.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_exti.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_exti.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_exti.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_exti.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_exti.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_exti.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_exti.o
+ .debug_macro   0x00000000       0x8e Device\Hal_Lib\src\HAL_exti.o
+ .debug_line    0x00000000      0x343 Device\Hal_Lib\src\HAL_exti.o
+ .debug_str     0x00000000    0x207dc Device\Hal_Lib\src\HAL_exti.o
+ .comment       0x00000000       0x6f Device\Hal_Lib\src\HAL_exti.o
+ .debug_frame   0x00000000      0x148 Device\Hal_Lib\src\HAL_exti.o
+ .ARM.attributes
+                0x00000000       0x33 Device\Hal_Lib\src\HAL_exti.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_flash.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_flash.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_flash.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_flash.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_flash.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_flash.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_flash.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_flash.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_flash.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_flash.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_flash.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_flash.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_flash.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_flash.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_flash.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_flash.o
+ .text.delay    0x00000000       0x28 Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_SetLatency
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_HalfCycleAccessCmd
+                0x00000000       0x30 Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_PrefetchBufferCmd
+                0x00000000       0x30 Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_Unlock
+                0x00000000       0x24 Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_Lock
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_ErasePage
+                0x00000000       0x6c Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_EraseAllPages
+                0x00000000       0x6c Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_EraseOptionBytes
+                0x00000000       0xc8 Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_ProgramWord
+                0x00000000       0x94 Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_ProgramHalfWord
+                0x00000000       0x60 Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_ProgramOptionByteData
+                0x00000000       0x74 Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_EnableWriteProtection
+                0x00000000      0x10c Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_ReadOutProtection
+                0x00000000       0xdc Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_UserOptionByteConfig
+                0x00000000       0x90 Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_GetUserOptionByte
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_GetWriteProtectionOptionByte
+                0x00000000       0x14 Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_GetPrefetchBufferStatus
+                0x00000000       0x30 Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_ITConfig
+                0x00000000       0x40 Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_GetFlagStatus
+                0x00000000       0x54 Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_ClearFlag
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_GetStatus
+                0x00000000       0x54 Device\Hal_Lib\src\HAL_flash.o
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x48 Device\Hal_Lib\src\HAL_flash.o
+ .debug_info    0x00000000      0x755 Device\Hal_Lib\src\HAL_flash.o
+ .debug_abbrev  0x00000000      0x1c8 Device\Hal_Lib\src\HAL_flash.o
+ .debug_aranges
+                0x00000000       0xd0 Device\Hal_Lib\src\HAL_flash.o
+ .debug_ranges  0x00000000       0xc0 Device\Hal_Lib\src\HAL_flash.o
+ .debug_macro   0x00000000      0x14c Device\Hal_Lib\src\HAL_flash.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_flash.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_flash.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_flash.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_flash.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_flash.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_flash.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_flash.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_flash.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_flash.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_flash.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_flash.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_flash.o
+ .debug_macro   0x00000000      0x334 Device\Hal_Lib\src\HAL_flash.o
+ .debug_line    0x00000000      0x4ef Device\Hal_Lib\src\HAL_flash.o
+ .debug_str     0x00000000    0x21f5a Device\Hal_Lib\src\HAL_flash.o
+ .comment       0x00000000       0x6f Device\Hal_Lib\src\HAL_flash.o
+ .debug_frame   0x00000000      0x360 Device\Hal_Lib\src\HAL_flash.o
+ .ARM.attributes
+                0x00000000       0x33 Device\Hal_Lib\src\HAL_flash.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_gpio.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_gpio.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_gpio.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_gpio.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_gpio.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_gpio.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_gpio.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_gpio.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_gpio.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_gpio.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_gpio.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_gpio.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_gpio.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_gpio.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_gpio.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_gpio.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_gpio.o
+ .text.GPIO_DeInit
+                0x00000000       0xa8 Device\Hal_Lib\src\HAL_gpio.o
+ .text.GPIO_StructInit
+                0x00000000       0x28 Device\Hal_Lib\src\HAL_gpio.o
+ .text.GPIO_ReadInputDataBit
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_gpio.o
+ .text.GPIO_ReadInputData
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_gpio.o
+ .text.GPIO_WriteBit
+                0x00000000       0x30 Device\Hal_Lib\src\HAL_gpio.o
+ .text.GPIO_Write
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_gpio.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x44 Device\Hal_Lib\src\HAL_gpio.o
+ .text.GPIO_PinAFConfig
+                0x00000000       0x94 Device\Hal_Lib\src\HAL_gpio.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_gpio.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_gpio.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_gpio.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_gpio.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_gpio.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_gpio.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_gpio.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_gpio.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_gpio.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_gpio.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_gpio.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_gpio.o
+ .debug_macro   0x00000000      0x41b Device\Hal_Lib\src\HAL_gpio.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_i2c.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_i2c.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_i2c.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_i2c.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_i2c.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_i2c.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_i2c.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_i2c.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_i2c.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_i2c.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_i2c.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_i2c.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_i2c.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_i2c.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_i2c.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_i2c.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_i2c.o
+ .bss.I2C_CMD_DIR
+                0x00000000        0x1 Device\Hal_Lib\src\HAL_i2c.o
+ .bss.I2C_DMA_DIR
+                0x00000000        0x2 Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_DeInit
+                0x00000000       0x58 Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_Init
+                0x00000000      0x128 Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_StructInit
+                0x00000000       0x30 Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_Cmd  0x00000000       0x48 Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_DMACmd
+                0x00000000       0x70 Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_GenerateSTART
+                0x00000000       0x40 Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_GenerateSTOP
+                0x00000000       0x2c Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_GenerateSTOP1
+                0x00000000       0x4c Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_OwnAddress2Config
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_DualAddressCmd
+                0x00000000       0x40 Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_GeneralCallCmd
+                0x00000000       0x40 Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_ITConfig
+                0x00000000       0x54 Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_SendData
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_SendLastDataOrStop
+                0x00000000       0x24 Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_ReadLastDataOrStop
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_ReadCmd
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_ReceiveData
+                0x00000000       0x24 Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_Send7bitAddress
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_ReadRegister
+                0x00000000       0x24 Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_GetLastEvent
+                0x00000000       0x30 Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_CheckEvent
+                0x00000000       0x64 Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_GetFlagStatus
+                0x00000000       0x84 Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_ClearFlag
+                0x00000000       0xb4 Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_GetITStatus
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_i2c.o
+ .text.I2C_ClearITPendingBit
+                0x00000000       0xb4 Device\Hal_Lib\src\HAL_i2c.o
+ .debug_info    0x00000000      0xbde Device\Hal_Lib\src\HAL_i2c.o
+ .debug_abbrev  0x00000000      0x19f Device\Hal_Lib\src\HAL_i2c.o
+ .debug_aranges
+                0x00000000       0xe0 Device\Hal_Lib\src\HAL_i2c.o
+ .debug_ranges  0x00000000       0xd0 Device\Hal_Lib\src\HAL_i2c.o
+ .debug_macro   0x00000000      0x119 Device\Hal_Lib\src\HAL_i2c.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_i2c.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_i2c.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_i2c.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_i2c.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_i2c.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_i2c.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_i2c.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_i2c.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_i2c.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_i2c.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_i2c.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_i2c.o
+ .debug_macro   0x00000000      0x1f3 Device\Hal_Lib\src\HAL_i2c.o
+ .debug_macro   0x00000000      0x41b Device\Hal_Lib\src\HAL_i2c.o
+ .debug_line    0x00000000      0x57a Device\Hal_Lib\src\HAL_i2c.o
+ .debug_str     0x00000000    0x239ff Device\Hal_Lib\src\HAL_i2c.o
+ .comment       0x00000000       0x6f Device\Hal_Lib\src\HAL_i2c.o
+ .debug_frame   0x00000000      0x3ec Device\Hal_Lib\src\HAL_i2c.o
+ .ARM.attributes
+                0x00000000       0x33 Device\Hal_Lib\src\HAL_i2c.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_iwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_iwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_iwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_iwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_iwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_iwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_iwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_iwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_iwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_iwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_iwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_iwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_iwdg.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_iwdg.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_iwdg.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_iwdg.o
+ .text.IWDG_WriteAccessCmd
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_iwdg.o
+ .text.IWDG_SetPrescaler
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_iwdg.o
+ .text.IWDG_SetReload
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_iwdg.o
+ .text.IWDG_ReloadCounter
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_iwdg.o
+ .text.IWDG_Enable
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_iwdg.o
+ .text.IWDG_GetFlagStatus
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_iwdg.o
+ .text.IWDG_ITConfig
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_iwdg.o
+ .text.IWDG_ClearITPendingBit
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_info    0x00000000      0x28d Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_abbrev  0x00000000      0x117 Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_aranges
+                0x00000000       0x58 Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_ranges  0x00000000       0x48 Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_macro   0x00000000       0xc2 Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_macro   0x00000000       0x6a Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_line    0x00000000      0x31c Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_str     0x00000000    0x20592 Device\Hal_Lib\src\HAL_iwdg.o
+ .comment       0x00000000       0x6f Device\Hal_Lib\src\HAL_iwdg.o
+ .debug_frame   0x00000000      0x140 Device\Hal_Lib\src\HAL_iwdg.o
+ .ARM.attributes
+                0x00000000       0x33 Device\Hal_Lib\src\HAL_iwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_misc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_misc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_misc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_misc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_misc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_misc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_misc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_misc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_misc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_misc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_misc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_misc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_misc.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_misc.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_misc.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_misc.o
+ .text.NVIC_PriorityGroupConfig
+                0x00000000       0x24 Device\Hal_Lib\src\HAL_misc.o
+ .text.NVIC_Init
+                0x00000000       0xd4 Device\Hal_Lib\src\HAL_misc.o
+ .text.NVIC_SetVectorTable
+                0x00000000       0x2c Device\Hal_Lib\src\HAL_misc.o
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x40 Device\Hal_Lib\src\HAL_misc.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_misc.o
+ .debug_info    0x00000000      0x547 Device\Hal_Lib\src\HAL_misc.o
+ .debug_abbrev  0x00000000      0x14c Device\Hal_Lib\src\HAL_misc.o
+ .debug_aranges
+                0x00000000       0x40 Device\Hal_Lib\src\HAL_misc.o
+ .debug_ranges  0x00000000       0x30 Device\Hal_Lib\src\HAL_misc.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_misc.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_misc.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_misc.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_misc.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_misc.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_misc.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_misc.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_misc.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_misc.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_misc.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_misc.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_misc.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_misc.o
+ .debug_macro   0x00000000       0x76 Device\Hal_Lib\src\HAL_misc.o
+ .debug_line    0x00000000      0x2f1 Device\Hal_Lib\src\HAL_misc.o
+ .debug_str     0x00000000    0x20748 Device\Hal_Lib\src\HAL_misc.o
+ .comment       0x00000000       0x6f Device\Hal_Lib\src\HAL_misc.o
+ .debug_frame   0x00000000       0xd8 Device\Hal_Lib\src\HAL_misc.o
+ .ARM.attributes
+                0x00000000       0x33 Device\Hal_Lib\src\HAL_misc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_pwr.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_pwr.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_pwr.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_pwr.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_pwr.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_pwr.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_pwr.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_pwr.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_pwr.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_pwr.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_pwr.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_pwr.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_pwr.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_pwr.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_pwr.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_pwr.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_pwr.o
+ .text.PWR_DeInit
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_pwr.o
+ .text.PWR_BackupAccessCmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_pwr.o
+ .text.PWR_PVDCmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_pwr.o
+ .text.PWR_PVDLevelConfig
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_pwr.o
+ .text.PWR_WakeUpPinCmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_pwr.o
+ .text.PWR_EnterSTOPMode
+                0x00000000       0x58 Device\Hal_Lib\src\HAL_pwr.o
+ .text.PWR_EnterSTANDBYMode
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_pwr.o
+ .text.PWR_GetFlagStatus
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_pwr.o
+ .text.PWR_ClearFlag
+                0x00000000       0x24 Device\Hal_Lib\src\HAL_pwr.o
+ .debug_info    0x00000000      0x435 Device\Hal_Lib\src\HAL_pwr.o
+ .debug_abbrev  0x00000000      0x180 Device\Hal_Lib\src\HAL_pwr.o
+ .debug_aranges
+                0x00000000       0x60 Device\Hal_Lib\src\HAL_pwr.o
+ .debug_ranges  0x00000000       0x50 Device\Hal_Lib\src\HAL_pwr.o
+ .debug_macro   0x00000000      0x119 Device\Hal_Lib\src\HAL_pwr.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_pwr.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_pwr.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_pwr.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_pwr.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_pwr.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_pwr.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_pwr.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_pwr.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_pwr.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_pwr.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_pwr.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_pwr.o
+ .debug_macro   0x00000000       0x8e Device\Hal_Lib\src\HAL_pwr.o
+ .debug_macro   0x00000000      0x41b Device\Hal_Lib\src\HAL_pwr.o
+ .debug_line    0x00000000      0x34d Device\Hal_Lib\src\HAL_pwr.o
+ .debug_str     0x00000000    0x22a5a Device\Hal_Lib\src\HAL_pwr.o
+ .comment       0x00000000       0x6f Device\Hal_Lib\src\HAL_pwr.o
+ .debug_frame   0x00000000      0x164 Device\Hal_Lib\src\HAL_pwr.o
+ .ARM.attributes
+                0x00000000       0x33 Device\Hal_Lib\src\HAL_pwr.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rcc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rcc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rcc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rcc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rcc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rcc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rcc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rcc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rcc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rcc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rcc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rcc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rcc.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_rcc.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_rcc.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_rcc.o
+ .data.APBAHBPrescTable
+                0x00000000       0x10 Device\Hal_Lib\src\HAL_rcc.o
+ .data.ADCPrescTable
+                0x00000000        0x4 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_DeInit
+                0x00000000       0x5c Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_HSEConfig
+                0x00000000       0x5c Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x50 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_HSICmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_PLLDMDNConfig
+                0x00000000       0x48 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_PLLConfig
+                0x00000000      0x168 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_PLLCmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_ITConfig
+                0x00000000       0x44 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_USBCLKConfig
+                0x00000000       0x24 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_QSPICLKConfig
+                0x00000000       0x24 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_ADCCLKConfig
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_LSEConfig
+                0x00000000       0x58 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_LSICmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x24 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_GetClocksFreq
+                0x00000000      0x184 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_AHB3PeriphClockCmd
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_AHB2PeriphClockCmd
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_APB2PeriphClockCmd
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_APB1PeriphClockCmd
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_AHB3PeriphResetCmd
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_AHB2PeriphResetCmd
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_AHB1PeriphResetCmd
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_BackupResetCmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_MCOConfig
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_GetFlagStatus
+                0x00000000       0x74 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_ClearFlag
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_GetITStatus
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x00000000       0x28 Device\Hal_Lib\src\HAL_rcc.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_rcc.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_rcc.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_rcc.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_rcc.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_rcc.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_rcc.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_rcc.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_rcc.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_rcc.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_rcc.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_rcc.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_rcc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rtc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rtc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rtc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rtc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rtc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rtc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rtc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rtc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rtc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rtc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rtc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rtc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_rtc.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_rtc.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_rtc.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_rtc.o
+ .text.RTC_ITConfig
+                0x00000000       0x4c Device\Hal_Lib\src\HAL_rtc.o
+ .text.RTC_EnterConfigMode
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_rtc.o
+ .text.RTC_ExitConfigMode
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_rtc.o
+ .text.RTC_GetCounter
+                0x00000000       0x2c Device\Hal_Lib\src\HAL_rtc.o
+ .text.RTC_SetCounter
+                0x00000000       0x30 Device\Hal_Lib\src\HAL_rtc.o
+ .text.RTC_SetPrescaler
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_rtc.o
+ .text.RTC_SetAlarm
+                0x00000000       0x30 Device\Hal_Lib\src\HAL_rtc.o
+ .text.RTC_GetDivider
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_rtc.o
+ .text.RTC_WaitForLastTask
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_rtc.o
+ .text.RTC_WaitForSynchro
+                0x00000000       0x30 Device\Hal_Lib\src\HAL_rtc.o
+ .text.RTC_GetFlagStatus
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_rtc.o
+ .text.RTC_ClearFlag
+                0x00000000       0x2c Device\Hal_Lib\src\HAL_rtc.o
+ .text.RTC_GetITStatus
+                0x00000000       0x50 Device\Hal_Lib\src\HAL_rtc.o
+ .text.RTC_ClearITPendingBit
+                0x00000000       0x2c Device\Hal_Lib\src\HAL_rtc.o
+ .debug_info    0x00000000      0x43f Device\Hal_Lib\src\HAL_rtc.o
+ .debug_abbrev  0x00000000      0x194 Device\Hal_Lib\src\HAL_rtc.o
+ .debug_aranges
+                0x00000000       0x88 Device\Hal_Lib\src\HAL_rtc.o
+ .debug_ranges  0x00000000       0x78 Device\Hal_Lib\src\HAL_rtc.o
+ .debug_macro   0x00000000       0xc2 Device\Hal_Lib\src\HAL_rtc.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_rtc.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_rtc.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_rtc.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_rtc.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_rtc.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_rtc.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_rtc.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_rtc.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_rtc.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_rtc.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_rtc.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_rtc.o
+ .debug_macro   0x00000000       0x52 Device\Hal_Lib\src\HAL_rtc.o
+ .debug_line    0x00000000      0x3ac Device\Hal_Lib\src\HAL_rtc.o
+ .debug_str     0x00000000    0x20577 Device\Hal_Lib\src\HAL_rtc.o
+ .comment       0x00000000       0x6f Device\Hal_Lib\src\HAL_rtc.o
+ .debug_frame   0x00000000      0x214 Device\Hal_Lib\src\HAL_rtc.o
+ .ARM.attributes
+                0x00000000       0x33 Device\Hal_Lib\src\HAL_rtc.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_spi.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_spi.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_spi.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_spi.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_spi.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_spi.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_spi.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_spi.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_spi.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_spi.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_spi.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_spi.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_spi.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_spi.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_spi.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_spi.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_spi.o
+ .text.SPI_DeInit
+                0x00000000       0x78 Device\Hal_Lib\src\HAL_spi.o
+ .text.SPI_Init
+                0x00000000       0xd8 Device\Hal_Lib\src\HAL_spi.o
+ .text.SPI_StructInit
+                0x00000000       0x44 Device\Hal_Lib\src\HAL_spi.o
+ .text.SPI_Cmd  0x00000000       0x40 Device\Hal_Lib\src\HAL_spi.o
+ .text.SPI_ITConfig
+                0x00000000       0x6c Device\Hal_Lib\src\HAL_spi.o
+ .text.SPI_DMACmd
+                0x00000000       0x48 Device\Hal_Lib\src\HAL_spi.o
+ .text.SPI_FifoTrigger
+                0x00000000       0x48 Device\Hal_Lib\src\HAL_spi.o
+ .text.SPI_SendData
+                0x00000000       0x60 Device\Hal_Lib\src\HAL_spi.o
+ .text.SPI_ReceiveData
+                0x00000000       0x84 Device\Hal_Lib\src\HAL_spi.o
+ .text.SPI_CSInternalSelected
+                0x00000000       0x4c Device\Hal_Lib\src\HAL_spi.o
+ .text.SPI_NSSInternalSoftwareConfig
+                0x00000000       0x44 Device\Hal_Lib\src\HAL_spi.o
+ .text.SPI_DataSizeConfig
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_spi.o
+ .text.SPI_BiDirectionalLineConfig
+                0x00000000       0x78 Device\Hal_Lib\src\HAL_spi.o
+ .text.SPI_GetFlagStatus
+                0x00000000       0xac Device\Hal_Lib\src\HAL_spi.o
+ .text.SPI_GetITStatus
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_spi.o
+ .text.SPI_ClearITPendingBit
+                0x00000000       0x28 Device\Hal_Lib\src\HAL_spi.o
+ .text.SPI_RxBytes
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_spi.o
+ .text.SPI_SlaveAdjust
+                0x00000000       0x28 Device\Hal_Lib\src\HAL_spi.o
+ .debug_info    0x00000000      0x734 Device\Hal_Lib\src\HAL_spi.o
+ .debug_abbrev  0x00000000      0x17d Device\Hal_Lib\src\HAL_spi.o
+ .debug_aranges
+                0x00000000       0xa8 Device\Hal_Lib\src\HAL_spi.o
+ .debug_ranges  0x00000000       0x98 Device\Hal_Lib\src\HAL_spi.o
+ .debug_macro   0x00000000       0xe3 Device\Hal_Lib\src\HAL_spi.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_spi.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_spi.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_spi.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_spi.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_spi.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_spi.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_spi.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_spi.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_spi.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_spi.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_spi.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_spi.o
+ .debug_macro   0x00000000      0x2b1 Device\Hal_Lib\src\HAL_spi.o
+ .debug_macro   0x00000000      0x41b Device\Hal_Lib\src\HAL_spi.o
+ .debug_line    0x00000000      0x48d Device\Hal_Lib\src\HAL_spi.o
+ .debug_str     0x00000000    0x23e12 Device\Hal_Lib\src\HAL_spi.o
+ .comment       0x00000000       0x6f Device\Hal_Lib\src\HAL_spi.o
+ .debug_frame   0x00000000      0x2dc Device\Hal_Lib\src\HAL_spi.o
+ .ARM.attributes
+                0x00000000       0x33 Device\Hal_Lib\src\HAL_spi.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_syscfg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_syscfg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_syscfg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_syscfg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_syscfg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_syscfg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_syscfg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_syscfg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_syscfg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_syscfg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_syscfg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_syscfg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_syscfg.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_syscfg.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_syscfg.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_syscfg.o
+ .text.SYSCFG_DeInit
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_syscfg.o
+ .text.SYSCFG_MemoryRemapConfig
+                0x00000000       0x30 Device\Hal_Lib\src\HAL_syscfg.o
+ .text.SYSCFG_DMAChannelRemapConfig
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_syscfg.o
+ .text.SYSCFG_EXTILineConfig
+                0x00000000       0x84 Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_info    0x00000000      0x1fa Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_abbrev  0x00000000      0x104 Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_aranges
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_ranges  0x00000000       0x28 Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_macro   0x00000000       0xb6 Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_macro   0x00000000       0xd6 Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_line    0x00000000      0x2df Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_str     0x00000000    0x20c48 Device\Hal_Lib\src\HAL_syscfg.o
+ .comment       0x00000000       0x6f Device\Hal_Lib\src\HAL_syscfg.o
+ .debug_frame   0x00000000       0xa8 Device\Hal_Lib\src\HAL_syscfg.o
+ .ARM.attributes
+                0x00000000       0x33 Device\Hal_Lib\src\HAL_syscfg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_tim.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_tim.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_tim.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_tim.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_tim.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_tim.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_tim.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_tim.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_tim.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_tim.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_tim.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_tim.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_tim.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_tim.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_tim.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_tim.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_DeInit
+                0x00000000       0xfc Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_TimeBaseInit
+                0x00000000       0xac Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_TimeBaseStructInit
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_PrescalerConfig
+                0x00000000       0x28 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_CounterModeConfig
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SetCounter
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SetAutoreload
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_GetCounter
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_GetPrescaler
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_UpdateDisableConfig
+                0x00000000       0x40 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_UpdateRequestConfig
+                0x00000000       0x40 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_ARRPreloadConfig
+                0x00000000       0x40 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SelectOnePulseMode
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SetClockDivision
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_Cmd  0x00000000       0x40 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_BDTRConfig
+                0x00000000       0x50 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_BDTRStructInit
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_CtrlPWMOutputs
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_OC1Init
+                0x00000000       0xf4 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_OC2Init
+                0x00000000      0x120 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_OC3Init
+                0x00000000      0x10c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_OC4Init
+                0x00000000       0xcc Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_OCStructInit
+                0x00000000       0x44 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SelectOCxM
+                0x00000000       0xac Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SetCompare1
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SetCompare2
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SetCompare3
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SetCompare4
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_ForcedOC1Config
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_ForcedOC2Config
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_ForcedOC3Config
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_ForcedOC4Config
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_CCPreloadControl
+                0x00000000       0x40 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_OC1PreloadConfig
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_OC2PreloadConfig
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_OC3PreloadConfig
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_OC4PreloadConfig
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_OC1FastConfig
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_OC2FastConfig
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_OC3FastConfig
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_OC4FastConfig
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_ClearOC1Ref
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_ClearOC2Ref
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_ClearOC3Ref
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_ClearOC4Ref
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_OC1PolarityConfig
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_OC1NPolarityConfig
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_OC2PolarityConfig
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_OC2NPolarityConfig
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_OC3PolarityConfig
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_OC3NPolarityConfig
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_OC4PolarityConfig
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SelectOCREFClear
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_CCxCmd
+                0x00000000       0x5c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_CCxNCmd
+                0x00000000       0x5c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SelectCOM
+                0x00000000       0x40 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_ICInit
+                0x00000000       0xa8 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_ICStructInit
+                0x00000000       0x30 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_PWMIConfig
+                0x00000000       0xb8 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_GetCapture1
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_GetCapture2
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_GetCapture3
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_GetCapture4
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SetIC1Prescaler
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SetIC2Prescaler
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SetIC3Prescaler
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SetIC4Prescaler
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_ITConfig
+                0x00000000       0x48 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_GenerateEvent
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_GetFlagStatus
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_ClearFlag
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_GetITStatus
+                0x00000000       0x54 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_ClearITPendingBit
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_DMAConfig
+                0x00000000       0x28 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_DMACmd
+                0x00000000       0x48 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SelectCCDMA
+                0x00000000       0x40 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_InternalClockConfig
+                0x00000000       0x24 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_ITRxExternalClockConfig
+                0x00000000       0x30 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_TIxExternalClockConfig
+                0x00000000       0x5c Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_ETRClockMode1Config
+                0x00000000       0x60 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_ETRClockMode2Config
+                0x00000000       0x40 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SelectInputTrigger
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SelectOutputTrigger
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SelectSlaveMode
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SelectMasterSlaveMode
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_ETRConfig
+                0x00000000       0x54 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_EncoderInterfaceConfig
+                0x00000000       0x98 Device\Hal_Lib\src\HAL_tim.o
+ .text.TIM_SelectHallSensor
+                0x00000000       0x40 Device\Hal_Lib\src\HAL_tim.o
+ .text.TI1_Config
+                0x00000000       0x84 Device\Hal_Lib\src\HAL_tim.o
+ .text.TI2_Config
+                0x00000000       0x98 Device\Hal_Lib\src\HAL_tim.o
+ .text.TI3_Config
+                0x00000000       0x90 Device\Hal_Lib\src\HAL_tim.o
+ .text.TI4_Config
+                0x00000000       0x98 Device\Hal_Lib\src\HAL_tim.o
+ .debug_info    0x00000000     0x1c42 Device\Hal_Lib\src\HAL_tim.o
+ .debug_abbrev  0x00000000      0x1b7 Device\Hal_Lib\src\HAL_tim.o
+ .debug_aranges
+                0x00000000      0x2f8 Device\Hal_Lib\src\HAL_tim.o
+ .debug_ranges  0x00000000      0x2e8 Device\Hal_Lib\src\HAL_tim.o
+ .debug_macro   0x00000000       0xd7 Device\Hal_Lib\src\HAL_tim.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_tim.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_tim.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_tim.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_tim.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_tim.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_tim.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_tim.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_tim.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_tim.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_tim.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_tim.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_tim.o
+ .debug_macro   0x00000000      0x735 Device\Hal_Lib\src\HAL_tim.o
+ .debug_macro   0x00000000      0x41b Device\Hal_Lib\src\HAL_tim.o
+ .debug_line    0x00000000      0xb35 Device\Hal_Lib\src\HAL_tim.o
+ .debug_str     0x00000000    0x2724f Device\Hal_Lib\src\HAL_tim.o
+ .comment       0x00000000       0x6f Device\Hal_Lib\src\HAL_tim.o
+ .debug_frame   0x00000000      0xe54 Device\Hal_Lib\src\HAL_tim.o
+ .ARM.attributes
+                0x00000000       0x33 Device\Hal_Lib\src\HAL_tim.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_uart.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_uart.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_uart.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_uart.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_uart.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_uart.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_uart.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_uart.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_uart.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_uart.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_uart.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_uart.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_uart.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_uart.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_uart.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_uart.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_DeInit
+                0x00000000      0x120 Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_Init
+                0x00000000       0xd0 Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_StructInit
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_Cmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_ITConfig
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_DMACmd
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_SendData
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_ReceiveData
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_GetFlagStatus
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_ClearFlag
+                0x00000000       0x28 Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_GetITStatus
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_ClearITPendingBit
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_WakeUpConfig
+                0x00000000       0x30 Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_ReceiverWakeUpCmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_SetRXAddress
+                0x00000000       0x30 Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_SetRXMASK
+                0x00000000       0x30 Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_Enable9bit
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_Set9bitLevel
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_Set9bitPolarity
+                0x00000000       0x3c Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_Set9bitAutomaticToggle
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_HalfDuplexCmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_SetGuardTime
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_SmartCardCmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_SmartCardNACKCmd
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_uart.o
+ .text.UART_SendBreak
+                0x00000000       0x20 Device\Hal_Lib\src\HAL_uart.o
+ .debug_info    0x00000000      0x827 Device\Hal_Lib\src\HAL_uart.o
+ .debug_abbrev  0x00000000      0x176 Device\Hal_Lib\src\HAL_uart.o
+ .debug_aranges
+                0x00000000       0xe0 Device\Hal_Lib\src\HAL_uart.o
+ .debug_ranges  0x00000000       0xd0 Device\Hal_Lib\src\HAL_uart.o
+ .debug_macro   0x00000000      0x143 Device\Hal_Lib\src\HAL_uart.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_uart.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_uart.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_uart.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_uart.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_uart.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_uart.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_uart.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_uart.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_uart.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_uart.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_uart.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_uart.o
+ .debug_macro   0x00000000      0x166 Device\Hal_Lib\src\HAL_uart.o
+ .debug_macro   0x00000000      0x41b Device\Hal_Lib\src\HAL_uart.o
+ .debug_line    0x00000000      0x4c2 Device\Hal_Lib\src\HAL_uart.o
+ .debug_str     0x00000000    0x236b9 Device\Hal_Lib\src\HAL_uart.o
+ .comment       0x00000000       0x6f Device\Hal_Lib\src\HAL_uart.o
+ .debug_frame   0x00000000      0x3f0 Device\Hal_Lib\src\HAL_uart.o
+ .ARM.attributes
+                0x00000000       0x33 Device\Hal_Lib\src\HAL_uart.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_wwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_wwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_wwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_wwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_wwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_wwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_wwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_wwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_wwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_wwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_wwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_wwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_wwdg.o
+ .group         0x00000000        0x8 Device\Hal_Lib\src\HAL_wwdg.o
+ .text          0x00000000        0x0 Device\Hal_Lib\src\HAL_wwdg.o
+ .data          0x00000000        0x0 Device\Hal_Lib\src\HAL_wwdg.o
+ .bss           0x00000000        0x0 Device\Hal_Lib\src\HAL_wwdg.o
+ .text.WWDG_DeInit
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_wwdg.o
+ .text.WWDG_SetPrescaler
+                0x00000000       0x34 Device\Hal_Lib\src\HAL_wwdg.o
+ .text.WWDG_SetWindowValue
+                0x00000000       0x38 Device\Hal_Lib\src\HAL_wwdg.o
+ .text.WWDG_EnableIT
+                0x00000000       0x1c Device\Hal_Lib\src\HAL_wwdg.o
+ .text.WWDG_SetCounter
+                0x00000000       0x24 Device\Hal_Lib\src\HAL_wwdg.o
+ .text.WWDG_Enable
+                0x00000000       0x24 Device\Hal_Lib\src\HAL_wwdg.o
+ .text.WWDG_GetFlagStatus
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_wwdg.o
+ .text.WWDG_ClearFlag
+                0x00000000       0x18 Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_info    0x00000000      0x23b Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_abbrev  0x00000000      0x11e Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_aranges
+                0x00000000       0x58 Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_ranges  0x00000000       0x48 Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_macro   0x00000000       0xef Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_macro   0x00000000      0x862 Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_macro   0x00000000       0x64 Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_macro   0x00000000       0x44 Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_macro   0x00000000       0xfd Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_macro   0x00000000      0x1df Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_macro   0x00000000       0x1c Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_macro   0x00000000       0x22 Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_macro   0x00000000       0xbc Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_macro   0x00000000      0xcc1 Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_macro   0x00000000     0x46e4 Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_macro   0x00000000       0x2e Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_macro   0x00000000      0x41b Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_line    0x00000000      0x326 Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_str     0x00000000    0x2249e Device\Hal_Lib\src\HAL_wwdg.o
+ .comment       0x00000000       0x6f Device\Hal_Lib\src\HAL_wwdg.o
+ .debug_frame   0x00000000      0x12c Device\Hal_Lib\src\HAL_wwdg.o
+ .ARM.attributes
+                0x00000000       0x33 Device\Hal_Lib\src\HAL_wwdg.o
+ .text          0x00000000       0x14 Device\Source\startup_mm32f103xx_o_gcc.o
+ .data          0x00000000        0x0 Device\Source\startup_mm32f103xx_o_gcc.o
+ .bss           0x00000000        0x0 Device\Source\startup_mm32f103xx_o_gcc.o
+ .group         0x00000000        0x8 Device\Source\system_MM32F103xCxE_o.o
+ .group         0x00000000        0x8 Device\Source\system_MM32F103xCxE_o.o
+ .group         0x00000000        0x8 Device\Source\system_MM32F103xCxE_o.o
+ .group         0x00000000        0x8 Device\Source\system_MM32F103xCxE_o.o
+ .group         0x00000000        0x8 Device\Source\system_MM32F103xCxE_o.o
+ .group         0x00000000        0x8 Device\Source\system_MM32F103xCxE_o.o
+ .group         0x00000000        0x8 Device\Source\system_MM32F103xCxE_o.o
+ .group         0x00000000        0x8 Device\Source\system_MM32F103xCxE_o.o
+ .group         0x00000000        0x8 Device\Source\system_MM32F103xCxE_o.o
+ .group         0x00000000        0x8 Device\Source\system_MM32F103xCxE_o.o
+ .group         0x00000000        0x8 Device\Source\system_MM32F103xCxE_o.o
+ .group         0x00000000        0x8 Device\Source\system_MM32F103xCxE_o.o
+ .text          0x00000000        0x0 Device\Source\system_MM32F103xCxE_o.o
+ .data          0x00000000        0x0 Device\Source\system_MM32F103xCxE_o.o
+ .bss           0x00000000        0x0 Device\Source\system_MM32F103xCxE_o.o
+ .data.AHBPrescTable
+                0x00000000       0x10 Device\Source\system_MM32F103xCxE_o.o
+ .text.AutoCalPllFactor
+                0x00000000       0xa4 Device\Source\system_MM32F103xCxE_o.o
+ .data.SystemCoreClock
+                0x00000000        0x4 Device\Source\system_MM32F103xCxE_o.o
+ .text.SetSysClockToXX_Define
+                0x00000000      0x17c Device\Source\system_MM32F103xCxE_o.o
+ .text.SystemInit
+                0x00000000       0x68 Device\Source\system_MM32F103xCxE_o.o
+ .debug_info    0x00000000      0x5d4 Device\Source\system_MM32F103xCxE_o.o
+ .debug_abbrev  0x00000000      0x145 Device\Source\system_MM32F103xCxE_o.o
+ .debug_aranges
+                0x00000000       0x30 Device\Source\system_MM32F103xCxE_o.o
+ .debug_ranges  0x00000000       0x20 Device\Source\system_MM32F103xCxE_o.o
+ .debug_macro   0x00000000       0xe9 Device\Source\system_MM32F103xCxE_o.o
+ .debug_macro   0x00000000      0x862 Device\Source\system_MM32F103xCxE_o.o
+ .debug_macro   0x00000000       0x64 Device\Source\system_MM32F103xCxE_o.o
+ .debug_macro   0x00000000       0x22 Device\Source\system_MM32F103xCxE_o.o
+ .debug_macro   0x00000000       0x44 Device\Source\system_MM32F103xCxE_o.o
+ .debug_macro   0x00000000       0xfd Device\Source\system_MM32F103xCxE_o.o
+ .debug_macro   0x00000000       0x22 Device\Source\system_MM32F103xCxE_o.o
+ .debug_macro   0x00000000      0x1df Device\Source\system_MM32F103xCxE_o.o
+ .debug_macro   0x00000000       0x1c Device\Source\system_MM32F103xCxE_o.o
+ .debug_macro   0x00000000       0x22 Device\Source\system_MM32F103xCxE_o.o
+ .debug_macro   0x00000000       0xbc Device\Source\system_MM32F103xCxE_o.o
+ .debug_macro   0x00000000      0xcc1 Device\Source\system_MM32F103xCxE_o.o
+ .debug_macro   0x00000000     0x46e4 Device\Source\system_MM32F103xCxE_o.o
+ .debug_line    0x00000000      0x328 Device\Source\system_MM32F103xCxE_o.o
+ .debug_str     0x00000000    0x2032f Device\Source\system_MM32F103xCxE_o.o
+ .comment       0x00000000       0x6f Device\Source\system_MM32F103xCxE_o.o
+ .debug_frame   0x00000000       0x78 Device\Source\system_MM32F103xCxE_o.o
+ .ARM.attributes
+                0x00000000       0x33 Device\Source\system_MM32F103xCxE_o.o
+ .group         0x00000000        0x8 USER\main.o
+ .group         0x00000000        0x8 USER\main.o
+ .group         0x00000000        0x8 USER\main.o
+ .group         0x00000000        0x8 USER\main.o
+ .group         0x00000000        0x8 USER\main.o
+ .group         0x00000000        0x8 USER\main.o
+ .group         0x00000000        0x8 USER\main.o
+ .group         0x00000000        0x8 USER\main.o
+ .group         0x00000000        0x8 USER\main.o
+ .group         0x00000000        0x8 USER\main.o
+ .group         0x00000000        0x8 USER\main.o
+ .group         0x00000000        0x8 USER\main.o
+ .group         0x00000000        0x8 USER\main.o
+ .group         0x00000000        0x8 USER\main.o
+ .text          0x00000000        0x0 USER\main.o
+ .data          0x00000000        0x0 USER\main.o
+ .bss           0x00000000        0x0 USER\main.o
+ .debug_macro   0x00000000      0x862 USER\main.o
+ .debug_macro   0x00000000       0x64 USER\main.o
+ .debug_macro   0x00000000       0x22 USER\main.o
+ .debug_macro   0x00000000       0x44 USER\main.o
+ .debug_macro   0x00000000       0xfd USER\main.o
+ .debug_macro   0x00000000       0x22 USER\main.o
+ .debug_macro   0x00000000      0x1df USER\main.o
+ .debug_macro   0x00000000       0x1c USER\main.o
+ .debug_macro   0x00000000       0x22 USER\main.o
+ .debug_macro   0x00000000       0xbc USER\main.o
+ .debug_macro   0x00000000      0xcc1 USER\main.o
+ .debug_macro   0x00000000     0x46e4 USER\main.o
+ .debug_macro   0x00000000      0x41b USER\main.o
+ .text          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x50 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2d e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x9c e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x34 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2d e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xd8 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .data          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtend.o
+ .data          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtend.o
+ .bss           0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtend.o
+ .eh_frame      0x00000000        0x4 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtend.o
+ .jcr           0x00000000        0x4 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtend.o
+ .text          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtn.o
+ .data          0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtn.o
+ .bss           0x00000000        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00080000         xr
+RAM              0x20000000         0x00020000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crti.o
+LOAD e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+LOAD e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+LOAD Device\Hal_Lib\src\HAL_adc.o
+LOAD Device\Hal_Lib\src\HAL_aes.o
+LOAD Device\Hal_Lib\src\HAL_bkp.o
+LOAD Device\Hal_Lib\src\HAL_can.o
+LOAD Device\Hal_Lib\src\HAL_comp.o
+LOAD Device\Hal_Lib\src\HAL_crc.o
+LOAD Device\Hal_Lib\src\HAL_dma.o
+LOAD Device\Hal_Lib\src\HAL_exti.o
+LOAD Device\Hal_Lib\src\HAL_flash.o
+LOAD Device\Hal_Lib\src\HAL_gpio.o
+LOAD Device\Hal_Lib\src\HAL_i2c.o
+LOAD Device\Hal_Lib\src\HAL_iwdg.o
+LOAD Device\Hal_Lib\src\HAL_misc.o
+LOAD Device\Hal_Lib\src\HAL_pwr.o
+LOAD Device\Hal_Lib\src\HAL_rcc.o
+LOAD Device\Hal_Lib\src\HAL_rtc.o
+LOAD Device\Hal_Lib\src\HAL_spi.o
+LOAD Device\Hal_Lib\src\HAL_syscfg.o
+LOAD Device\Hal_Lib\src\HAL_tim.o
+LOAD Device\Hal_Lib\src\HAL_uart.o
+LOAD Device\Hal_Lib\src\HAL_wwdg.o
+LOAD Device\Source\startup_mm32f103xx_o_gcc.o
+LOAD Device\Source\system_MM32F103xCxE_o.o
+LOAD USER\main.o
+START GROUP
+LOAD e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a
+LOAD e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a
+LOAD e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a
+END GROUP
+LOAD e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtend.o
+LOAD e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtn.o
+                0x2001ffff                _estack = 0x2001ffff
+                0x00000400                _Min_Heap_Size = 0x400
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x1b4
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x1b4 Device\Source\startup_mm32f103xx_o_gcc.o
+                0x08000000                g_pfnVectors
+                0x080001b4                . = ALIGN (0x4)
+
+.eh_frame       0x080001b4        0x0
+ .eh_frame      0x080001b4        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+
+.text           0x080001b4      0x494
+                0x080001b4                . = ALIGN (0x4)
+ *(.text)
+ .text          0x080001b4       0xa4 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+ *(.text*)
+ .text.GPIO_Init
+                0x08000258      0x178 Device\Hal_Lib\src\HAL_gpio.o
+                0x08000258                GPIO_Init
+ .text.GPIO_SetBits
+                0x080003d0       0x1c Device\Hal_Lib\src\HAL_gpio.o
+                0x080003d0                GPIO_SetBits
+ .text.GPIO_ResetBits
+                0x080003ec       0x1c Device\Hal_Lib\src\HAL_gpio.o
+                0x080003ec                GPIO_ResetBits
+ .text.RCC_AHB1PeriphClockCmd
+                0x08000408       0x3c Device\Hal_Lib\src\HAL_rcc.o
+                0x08000408                RCC_AHB1PeriphClockCmd
+ .text.Reset_Handler
+                0x08000444       0x40 Device\Source\startup_mm32f103xx_o_gcc.o
+                0x08000444                Reset_Handler
+ .text.Default_Handler
+                0x08000484        0x2 Device\Source\startup_mm32f103xx_o_gcc.o
+                0x08000484                EXTI2_IRQHandler
+                0x08000484                TIM8_TRG_COM_IRQHandler
+                0x08000484                TIM8_CC_IRQHandler
+                0x08000484                DebugMon_Handler
+                0x08000484                UART8_IRQHandler
+                0x08000484                TIM1_CC_IRQHandler
+                0x08000484                HardFault_Handler
+                0x08000484                CAN1_RX_IRQHandler
+                0x08000484                TIM6_IRQHandler
+                0x08000484                SysTick_Handler
+                0x08000484                PVD_IRQHandler
+                0x08000484                SDIO_IRQHandler
+                0x08000484                PendSV_Handler
+                0x08000484                NMI_Handler
+                0x08000484                EXTI3_IRQHandler
+                0x08000484                I2C1_IRQHandler
+                0x08000484                UART1_IRQHandler
+                0x08000484                USB_OTG_FS_IRQHandler
+                0x08000484                EXTI0_IRQHandler
+                0x08000484                RCC_CRS_IRQHandler
+                0x08000484                UsageFault_Handler
+                0x08000484                SPI1_IRQHandler
+                0x08000484                ETHERNET_MAC_IRQHandler
+                0x08000484                TAMPER_IRQHandler
+                0x08000484                TIM8_UP_IRQHandler
+                0x08000484                DMA2_Channel2_IRQHandler
+                0x08000484                DMA1_Channel4_IRQHandler
+                0x08000484                ADC1_IRQHandler
+                0x08000484                I2C2_IRQHandler
+                0x08000484                RTC_IRQHandler
+                0x08000484                DMA1_Channel7_IRQHandler
+                0x08000484                UART5_IRQHandler
+                0x08000484                TIM4_IRQHandler
+                0x08000484                DMA2_Channel1_IRQHandler
+                0x08000484                UART2_IRQHandler
+                0x08000484                DMA1_Channel6_IRQHandler
+                0x08000484                UART4_IRQHandler
+                0x08000484                DMA2_Channel4_IRQHandler
+                0x08000484                TIM3_IRQHandler
+                0x08000484                TIM1_TRG_COM_IRQHandler
+                0x08000484                DMA1_Channel1_IRQHandler
+                0x08000484                Default_Handler
+                0x08000484                EXTI15_10_IRQHandler
+                0x08000484                TIM7_IRQHandler
+                0x08000484                TIM5_IRQHandler
+                0x08000484                EXTI9_5_IRQHandler
+                0x08000484                SPI2_IRQHandler
+                0x08000484                MemManage_Handler
+                0x08000484                SVC_Handler
+                0x08000484                DMA2_Channel5_IRQHandler
+                0x08000484                DMA1_Channel5_IRQHandler
+                0x08000484                EXTI4_IRQHandler
+                0x08000484                COMP1_2_IRQHandler
+                0x08000484                DMA1_Channel3_IRQHandler
+                0x08000484                TIM1_UP_IRQHandler
+                0x08000484                WWDG_IRQHandler
+                0x08000484                TIM2_IRQHandler
+                0x08000484                TIM1_BRK_IRQHandler
+                0x08000484                EXTI1_IRQHandler
+                0x08000484                AES_IRQHandler
+                0x08000484                RTCAlarm_IRQHandler
+                0x08000484                UART7_IRQHandler
+                0x08000484                UART6_IRQHandler
+                0x08000484                DMA1_Channel2_IRQHandler
+                0x08000484                TIM8_BRK_IRQHandler
+                0x08000484                FLASH_IRQHandler
+                0x08000484                BusFault_Handler
+                0x08000484                SPI3_IRQHandler
+                0x08000484                UART3_IRQHandler
+                0x08000484                TRNG_IRQHandler
+                0x08000484                USB_WKUP_IRQHandler
+                0x08000484                DMA2_Channel3_IRQHandler
+ *fill*         0x08000486        0x2 
+ .text.LED_Init
+                0x08000488       0x3c USER\main.o
+                0x08000488                LED_Init
+ .text.delay_us
+                0x080004c4       0x20 USER\main.o
+ .text.delay_ms
+                0x080004e4       0x24 USER\main.o
+ .text.main     0x08000508       0x34 USER\main.o
+                0x08000508                main
+ .text.startup.register_fini
+                0x0800053c       0x14 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08000550        0xc e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+                0x08000550                atexit
+ .text.__libc_fini_array
+                0x0800055c       0x28 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+                0x0800055c                __libc_fini_array
+ .text.__register_exitproc
+                0x08000584       0xa4 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+                0x08000584                __register_exitproc
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.4
+                0x08000628        0x4 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+                                  0x2 (size before relaxing)
+ .rodata._global_impure_ptr
+                0x0800062c        0x4 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+                0x0800062c                _global_impure_ptr
+ *(.glue_7)
+ .glue_7        0x08000630        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08000630        0x0 linker stubs
+ *(.init)
+ .init          0x08000630        0x4 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crti.o
+                0x08000630                _init
+ .init          0x08000634        0x8 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtn.o
+ *(.fini)
+ .fini          0x0800063c        0x4 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crti.o
+                0x0800063c                _fini
+ .fini          0x08000640        0x8 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtn.o
+                0x08000648                . = ALIGN (0x4)
+                0x08000648                _etext = .
+
+.vfp11_veneer   0x08000648        0x0
+ .vfp11_veneer  0x08000648        0x0 linker stubs
+
+.v4_bx          0x08000648        0x0
+ .v4_bx         0x08000648        0x0 linker stubs
+
+.iplt           0x08000648        0x0
+ .iplt          0x08000648        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+
+.rel.dyn        0x08000648        0x0
+ .rel.iplt      0x08000648        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08000648        0x0
+                0x08000648                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08000648                __exidx_end = .
+
+.ARM.attributes
+                0x08000648       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x08000648       0x1d e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crti.o
+ .ARM.attributes
+                0x08000665       0x2d e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x08000692       0x33 Device\Hal_Lib\src\HAL_gpio.o
+ .ARM.attributes
+                0x080006c5       0x33 Device\Hal_Lib\src\HAL_rcc.o
+ .ARM.attributes
+                0x080006f8       0x21 Device\Source\startup_mm32f103xx_o_gcc.o
+ .ARM.attributes
+                0x08000719       0x33 USER\main.o
+ .ARM.attributes
+                0x0800074c       0x2d e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x08000779       0x2d e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x080007a6       0x2d e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x080007d3       0x2d e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x08000800       0x2d e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0800082d       0x2d e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtend.o
+ .ARM.attributes
+                0x0800085a       0x1d e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtn.o
+
+.preinit_array  0x08000648        0x0
+                0x08000648                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x08000648                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x08000648        0x8
+                0x08000648                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x08000648        0x4 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x0800064c        0x4 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+                0x08000650                PROVIDE (__init_array_end, .)
+
+.fini_array     0x08000650        0x4
+                0x08000650                PROVIDE (__fini_array_start, .)
+ *(.fini_array*)
+ .fini_array    0x08000650        0x4 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+ *(SORT(.fini_array.*))
+                0x08000654                PROVIDE (__fini_array_end, .)
+                0x08000654                _sidata = .
+
+.data           0x20000000      0x428 load address 0x08000654
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.impure_data
+                0x20000000      0x428 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+                0x20000428                . = ALIGN (0x4)
+                0x20000428                _edata = .
+
+.jcr            0x20000428        0x0 load address 0x08000a7c
+ .jcr           0x20000428        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+
+.tm_clone_table
+                0x20000428        0x0 load address 0x08000a7c
+ .tm_clone_table
+                0x20000428        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+ .tm_clone_table
+                0x20000428        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtend.o
+
+.igot.plt       0x20000428        0x0 load address 0x08000a7c
+ .igot.plt      0x20000428        0x0 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+                0x20000428                . = ALIGN (0x4)
+
+.bss            0x20000428       0x1c load address 0x08000a7c
+                0x20000428                _sbss = .
+                0x20000428                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000428       0x1c e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+ *(.bss*)
+ *(COMMON)
+                0x20000444                . = ALIGN (0x4)
+                0x20000444                _ebss = .
+                0x20000444                __bss_end__ = _ebss
+                [!provide]                PROVIDE (end, _ebss)
+                [!provide]                PROVIDE (_end, _ebss)
+
+._user_heap_stack
+                0x20000444      0x800 load address 0x08000a98
+                0x20000444                . = ALIGN (0x4)
+                0x20000844                . = (. + _Min_Heap_Size)
+ *fill*         0x20000444      0x400 
+                0x20000c44                . = (. + _Min_Stack_Size)
+ *fill*         0x20000844      0x400 
+                0x20000c44                . = ALIGN (0x4)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+OUTPUT(mm32F103_o3_GCC_zimulu.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x13ac
+ .debug_info    0x00000000      0x5a7 Device\Hal_Lib\src\HAL_gpio.o
+ .debug_info    0x000005a7      0xa73 Device\Hal_Lib\src\HAL_rcc.o
+ .debug_info    0x0000101a       0xdc Device\Source\startup_mm32f103xx_o_gcc.o
+ .debug_info    0x000010f6      0x2b6 USER\main.o
+
+.debug_abbrev   0x00000000      0x51b
+ .debug_abbrev  0x00000000      0x1a7 Device\Hal_Lib\src\HAL_gpio.o
+ .debug_abbrev  0x000001a7      0x215 Device\Hal_Lib\src\HAL_rcc.o
+ .debug_abbrev  0x000003bc       0x12 Device\Source\startup_mm32f103xx_o_gcc.o
+ .debug_abbrev  0x000003ce      0x14d USER\main.o
+
+.debug_aranges  0x00000000      0x230
+ .debug_aranges
+                0x00000000       0x80 Device\Hal_Lib\src\HAL_gpio.o
+ .debug_aranges
+                0x00000080      0x150 Device\Hal_Lib\src\HAL_rcc.o
+ .debug_aranges
+                0x000001d0       0x28 Device\Source\startup_mm32f103xx_o_gcc.o
+ .debug_aranges
+                0x000001f8       0x38 USER\main.o
+
+.debug_ranges   0x00000000      0x1f8
+ .debug_ranges  0x00000000       0x70 Device\Hal_Lib\src\HAL_gpio.o
+ .debug_ranges  0x00000070      0x140 Device\Hal_Lib\src\HAL_rcc.o
+ .debug_ranges  0x000001b0       0x20 Device\Source\startup_mm32f103xx_o_gcc.o
+ .debug_ranges  0x000001d0       0x28 USER\main.o
+
+.debug_macro    0x00000000      0xb0b
+ .debug_macro   0x00000000       0xe9 Device\Hal_Lib\src\HAL_gpio.o
+ .debug_macro   0x000000e9      0x1c4 Device\Hal_Lib\src\HAL_gpio.o
+ .debug_macro   0x000002ad      0x1c6 Device\Hal_Lib\src\HAL_rcc.o
+ .debug_macro   0x00000473      0x415 Device\Hal_Lib\src\HAL_rcc.o
+ .debug_macro   0x00000888       0xb9 USER\main.o
+ .debug_macro   0x00000941      0x1ca USER\main.o
+
+.debug_line     0x00000000      0xd83
+ .debug_line    0x00000000      0x3f2 Device\Hal_Lib\src\HAL_gpio.o
+ .debug_line    0x000003f2      0x622 Device\Hal_Lib\src\HAL_rcc.o
+ .debug_line    0x00000a14       0x8f Device\Source\startup_mm32f103xx_o_gcc.o
+ .debug_line    0x00000aa3      0x2e0 USER\main.o
+
+.debug_str      0x00000000    0x24172
+ .debug_str     0x00000000    0x23470 Device\Hal_Lib\src\HAL_gpio.o
+                              0x235ed (size before relaxing)
+ .debug_str     0x00023470      0xcb2 Device\Hal_Lib\src\HAL_rcc.o
+                              0x22dcd (size before relaxing)
+ .debug_str     0x00024122       0x50 USER\main.o
+                              0x23383 (size before relaxing)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e Device\Hal_Lib\src\HAL_gpio.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f Device\Hal_Lib\src\HAL_rcc.o
+ .comment       0x0000006e       0x6f USER\main.o
+
+.debug_frame    0x00000000      0x990
+ .debug_frame   0x00000000      0x214 Device\Hal_Lib\src\HAL_gpio.o
+ .debug_frame   0x00000214      0x608 Device\Hal_Lib\src\HAL_rcc.o
+ .debug_frame   0x0000081c       0x9c USER\main.o
+ .debug_frame   0x000008b8       0x50 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000908       0x20 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00000928       0x34 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .debug_frame   0x0000095c       0x34 e:/gnu tools arm embedded/5.2 2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)

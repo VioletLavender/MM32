@@ -1,0 +1,28 @@
+--cpu Cortex-M0
+".\objects\system_mm32l0xx.o"
+".\objects\startup_mm32l0xx.o"
+".\objects\hal_adc.o"
+".\objects\hal_aes.o"
+".\objects\hal_bkp.o"
+".\objects\hal_can.o"
+".\objects\hal_comp.o"
+".\objects\hal_dma.o"
+".\objects\hal_exti.o"
+".\objects\hal_flash.o"
+".\objects\hal_gpio.o"
+".\objects\hal_i2c.o"
+".\objects\hal_iwdg.o"
+".\objects\hal_memprotect.o"
+".\objects\hal_misc.o"
+".\objects\hal_pwr.o"
+".\objects\hal_rcc.o"
+".\objects\hal_spi.o"
+".\objects\hal_syscfg.o"
+".\objects\hal_tim.o"
+".\objects\hal_uart.o"
+".\objects\hal_wwdg.o"
+".\objects\main.o"
+--strict --scatter ".\Objects\OTA_APP.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\OTA_APP.map" -o .\Objects\OTA_APP.axf

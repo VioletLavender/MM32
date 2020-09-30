@@ -1,0 +1,17 @@
+.\objects\mm32l073_it.o: ..\User\MM32L073_it.c
+.\objects\mm32l073_it.o: ..\User\MM32L073_it.h
+.\objects\mm32l073_it.o: ..\..\Device\MM32L0xx\Include\MM32L073PF.h
+.\objects\mm32l073_it.o: C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h
+.\objects\mm32l073_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mm32l073_it.o: C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\mm32l073_it.o: C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\mm32l073_it.o: C:\Users\24716\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\mm32l073_it.o: ..\..\Device\MM32L0xx\HAL_lib\inc\HAL_conf.h
+.\objects\mm32l073_it.o: ..\..\Device\MM32L0xx\Include\HAL_device.h
+.\objects\mm32l073_it.o: ..\..\Device\MM32L0xx\Include\MM32L073PF.h
+.\objects\mm32l073_it.o: ..\..\Device\MM32L0xx\HAL_lib\inc\HAL_flash.h
+.\objects\mm32l073_it.o: ..\..\Device\MM32L0xx\HAL_lib\inc\HAL_rcc.h
+.\objects\mm32l073_it.o: ..\..\Device\MM32L0xx\HAL_lib\inc\HAL_misc.h
+.\objects\mm32l073_it.o: ..\..\Device\MM32L0xx\HAL_lib\inc\HAL_syscfg.h
+.\objects\mm32l073_it.o: ..\..\Device\MM32L0xx\HAL_lib\inc\HAL_gpio.h
+.\objects\mm32l073_it.o: ..\User\boot.h
